@@ -1,0 +1,1001 @@
+CUSTID,NAME,STREET,CITY,STATE,ZIPCODE,TELEPHONE,AVAILABLE CREDIT
+1000,Joyce Martinez,8 La Follette Plaza,Sacramento,CA,94263,1-(916)290-1436,8616
+1001,Rebecca Lawrence,93333 Comanche Crossing,Stamford,CT,06905,1-(203)756-1244,5735
+1002,Paula Young,68871 Fuller Crossing,New Haven,CT,06533,1-(203)467-3854,4069
+1003,Joe Crawford,72898 Coolidge Terrace,Fort Worth,TX,76178,1-(682)543-7461,6175
+1004,Howard Young,76208 Memorial Plaza,New York City,NY,10110,1-(917)736-3421,9858
+1005,Bruce Knight,98 Hansons Crossing,Tyler,TX,75799,1-(903)882-1508,1961
+1006,Heather Lawson,98 Oak Alley,Decatur,GA,30089,1-(770)900-1459,3380
+1007,Joe Wells,27 Londonderry Terrace,El Paso,TX,79940,1-(915)400-7438,8290
+1008,Sarah Cruz,469 Luster Place,Santa Barbara,CA,93150,1-(805)153-5802,7686
+1009,Jason Phillips,5 Glendale Crossing,Dayton,OH,45454,1-(937)455-2138,3581
+1010,Keith Johnson,1 Schlimgen Place,Lincoln,NE,68583,1-(402)154-2584,6158
+1011,Kelly Kennedy,1635 Cherokee Lane,Las Vegas,NV,89110,1-(702)125-7385,2321
+1012,Douglas Stewart,43 Glendale Road,Dallas,TX,75367,1-(214)864-7724,687
+1013,Andrew Rose,191 Summer Ridge Place,Ogden,UT,84403,1-(801)458-5747,1124
+1014,Larry Stanley,0 Delladonna Lane,Springfield,IL,62756,1-(217)196-0441,9279
+1015,Shirley Castillo,751 Reinke Lane,Camden,NJ,08104,1-(856)797-1533,7493
+1016,Eugene Jenkins,6423 Prairieview Point,Lansing,MI,48901,1-(517)912-2683,7145
+1017,Lisa Harvey,40 Bashford Terrace,Boston,MA,02298,1-(617)962-6682,5263
+1018,Louise Ford,5 Steensland Avenue,Bronx,NY,10459,1-(917)526-4997,3334
+1019,Kelly Wagner,17472 School Court,Kalamazoo,MI,49006,1-(269)976-6242,3380
+1020,Diana Green,2196 Cambridge Circle,Boise,ID,83711,1-(208)751-7316,4617
+1021,Lois Rice,6 Nova Parkway,Lubbock,TX,79405,1-(806)253-8663,824
+1022,Ashley Martin,6 Park Meadow Center,Carson City,NV,89706,1-(775)444-5261,7800
+1023,Daniel Peters,85 Kensington Trail,Houston,TX,77070,1-(713)606-0558,7539
+1024,Stephen Gonzales,553 Crownhardt Alley,Winter Haven,FL,33884,1-(863)102-8821,1040
+1025,Paul Burke,5 Upham Road,Huntsville,TX,77343,1-(936)362-9892,610
+1026,Carol Morgan,54 Rutledge Court,Baltimore,MD,21203,1-(443)120-5270,6362
+1027,Walter Stevens,903 Dottie Place,San Jose,CA,95108,1-(408)165-6422,5178
+1028,Brian Little,5547 Leroy Terrace,Boston,MA,02298,1-(617)725-8196,1456
+1029,Louise Harrison,05 Washington Hill,Las Vegas,NV,89193,1-(702)826-0104,7403
+1030,Theresa Fields,619 Tony Place,Minneapolis,MN,55448,1-(763)326-1414,1804
+1031,Julie Watson,6 Kinsman Terrace,Erie,PA,16550,1-(814)469-2073,7481
+1032,Carlos Myers,163 Waywood Junction,Salinas,CA,93907,1-(831)563-8844,9784
+1033,Beverly Allen,9214 Roxbury Place,Springfield,IL,62705,1-(217)952-6680,5515
+1034,Angela Cooper,483 Shelley Crossing,Washington,DC,20238,1-(202)638-3901,8221
+1035,Debra Wright,7 Little Fleur Park,New York City,NY,10004,1-(347)814-5193,5198
+1036,Brandon Arnold,52784 Prairie Rose Park,Des Moines,IA,50310,1-(515)116-2367,4520
+1037,Lois Palmer,4 Judy Street,Tulsa,OK,74103,1-(918)717-9421,3260
+1038,Steve Thompson,9577 Petterle Lane,Macon,GA,31296,1-(478)764-9434,7035
+1039,Carolyn Boyd,53 Northwestern Place,Panama City,FL,32405,1-(850)268-3822,6559
+1040,Aaron Coleman,12982 Schiller Junction,Minneapolis,MN,55436,1-(612)905-6657,7074
+1041,Rose Arnold,231 Vermont Park,Cincinnati,OH,45264,1-(513)139-7801,4105
+1042,Joseph Owens,1023 Melby Junction,Houston,TX,77005,1-(281)419-7964,1217
+1043,Jack Bowman,0778 Porter Parkway,Norman,OK,73071,1-(405)522-5684,8259
+1044,Nicole Berry,35400 Talmadge Point,El Paso,TX,79916,1-(915)926-0194,8664
+1045,Robin Hawkins,72 Mosinee Junction,Washington,DC,20370,1-(202)880-2005,983
+1046,Gregory Stevens,2580 Burning Wood Pass,Las Vegas,NV,89105,1-(702)300-5464,1695
+1047,Steven Greene,5 Hanson Street,Winston Salem,NC,27105,1-(336)701-6934,3068
+1048,Elizabeth Peters,7156 Marquette Hill,Portsmouth,NH,03804,1-(603)504-8198,8311
+1049,Daniel Richardson,31542 Larry Trail,Fort Pierce,FL,34981,1-(772)160-6333,8157
+1050,Gregory Butler,963 Dexter Terrace,Honolulu,HI,96825,1-(808)176-6971,9414
+1051,Ryan Collins,20769 Northfield Street,Washington,DC,20430,1-(202)797-8698,4593
+1052,Clarence Sims,3434 Laurel Point,Washington,DC,56944,1-(202)130-6857,553
+1053,Howard Wallace,92 Morningstar Road,El Paso,TX,79940,1-(915)442-7579,7153
+1054,Gloria Hill,0033 Cody Way,Birmingham,AL,35225,1-(205)189-9874,5039
+1055,Cynthia Lopez,2272 Memorial Lane,New Orleans,LA,70129,1-(504)955-6225,4252
+1056,Albert Lawson,73900 Buena Vista Circle,Spring,TX,77388,1-(832)641-5820,6502
+1057,Eric Smith,4717 Westridge Circle,Akron,OH,44305,1-(330)357-3505,4817
+1058,Jerry Perry,124 Loeprich Drive,Omaha,NE,68134,1-(712)426-6271,3985
+1059,Kathryn Gardner,0402 Autumn Leaf Park,Metairie,LA,70033,1-(504)232-8948,9987
+1060,Ronald Bell,6254 Stang Trail,Waterbury,CT,06705,1-(203)136-4132,4274
+1061,Gregory Griffin,85 Logan Circle,Bridgeport,CT,06606,1-(203)612-2155,4846
+1062,Kathy Warren,108 Magdeline Park,Rochester,MN,55905,1-(507)990-9881,4871
+1063,Jack Hamilton,63934 Fairfield Lane,Houston,TX,77010,1-(713)885-7043,2542
+1064,Todd Garcia,23 Randy Crossing,Beaufort,SC,29905,1-(843)366-0490,7989
+1065,Roger Kim,5811 Division Plaza,Washington,DC,20442,1-(202)792-4641,1619
+1066,Jason Sanchez,70 Graceland Center,San Antonio,TX,78215,1-(210)457-9285,2182
+1067,Stephen Williamson,8 Arizona Drive,Iowa City,IA,52245,1-(319)183-9550,2456
+1068,Martin Gardner,268 Di Loreto Pass,Syracuse,NY,13224,1-(315)773-0578,2315
+1069,Peter Black,2 Northridge Trail,Cincinnati,OH,45254,1-(513)167-2524,6203
+1070,Harold Graham,4169 Melody Park,Houston,TX,77045,1-(281)932-6026,5021
+1071,Robin Hawkins,66 Bobwhite Point,Phoenix,AZ,85099,1-(602)460-8761,2387
+1072,Louis Barnes,819 Judy Road,Carlsbad,CA,92013,1-(760)617-0331,728
+1073,Sandra Cunningham,713 American Ash Drive,Tampa,FL,33661,1-(813)770-8179,3336
+1074,Kathryn Elliott,5048 Nova Court,Young America,MN,55551,1-(952)278-8412,4081
+1075,Dorothy Baker,630 Gerald Circle,Richmond,VA,23228,1-(804)615-6282,723
+1076,Deborah Howard,068 Packers Street,Monroe,LA,71213,1-(318)841-0866,9436
+1077,Terry Little,261 Fordem Avenue,Galveston,TX,77554,1-(409)226-2298,9747
+1078,Gerald Armstrong,7 Brentwood Parkway,Roanoke,VA,24014,1-(540)702-5456,1690
+1079,Todd Boyd,478 Waubesa Circle,Cleveland,OH,44125,1-(440)859-2301,7836
+1080,Brenda Sanchez,5846 Hintze Lane,Oceanside,CA,92056,1-(760)261-9647,2148
+1081,Rose Duncan,440 Di Loreto Terrace,Pueblo,CO,81015,1-(719)795-3081,4177
+1082,Jason Kennedy,3296 Veith Way,Jamaica,NY,11499,1-(212)659-4604,9323
+1083,Philip Black,9 Haas Way,Greeley,CO,80638,1-(970)658-0296,7363
+1084,Ronald Stanley,0 Goodland Way,Los Angeles,CA,90035,1-(310)251-4364,6600
+1085,Stephanie Reed,1124 Bartillon Court,Madison,WI,53710,1-(608)791-2045,9707
+1086,Paul Scott,541 Fallview Alley,Oakland,CA,94627,1-(510)563-6067,4062
+1087,Sarah Freeman,0455 Talmadge Hill,Lakewood,WA,98498,1-(253)283-0045,2566
+1088,Cynthia Patterson,6442 Pankratz Terrace,Fort Pierce,FL,34981,1-(772)136-1912,7144
+1089,Amy Gomez,99 Susan Court,Austin,TX,78789,1-(512)650-1014,1410
+1090,Paula Holmes,949 Barnett Road,Jamaica,NY,11447,1-(917)144-6905,4327
+1091,Katherine Sanders,46732 Clyde Gallagher Parkway,San Francisco,CA,94126,1-(415)244-5250,8596
+1092,James Flores,5 Bonner Pass,Atlanta,GA,30301,1-(678)878-7932,3870
+1093,Barbara Robertson,73629 Little Fleur Parkway,Charlotte,NC,28256,1-(704)133-9348,5105
+1094,Arthur Welch,6617 Pawling Circle,Philadelphia,PA,19146,1-(215)874-4333,2967
+1095,Carolyn Gordon,45399 Marquette Parkway,Pueblo,CO,81005,1-(719)425-2929,5760
+1096,George Vasquez,9429 Drewry Lane,Lexington,KY,40524,1-(859)658-6313,8527
+1097,Edward Hansen,7922 Maywood Road,Tucson,AZ,85715,1-(520)361-6770,6716
+1098,Cynthia Gilbert,95 Thierer Trail,Albuquerque,NM,87121,1-(505)321-2181,7489
+1099,Mark Walker,580 Fremont Road,San Antonio,TX,78220,1-(210)885-4725,3382
+1100,Beverly Miller,877 Hermina Alley,New Orleans,LA,70129,1-(504)953-8889,6469
+1101,Gerald Walker,53833 Graceland Point,Brockton,MA,02405,1-(508)925-0169,1461
+1102,Kenneth Davis,31 Arapahoe Circle,El Paso,TX,79945,1-(915)627-3679,5242
+1103,Joan Bradley,18 Forest Run Parkway,Greensboro,NC,27455,1-(910)649-5611,7958
+1104,Patrick Williams,45 Cambridge Point,Escondido,CA,92030,1-(760)387-9944,3941
+1105,Charles Lynch,83 Gale Junction,Trenton,NJ,08619,1-(609)410-2317,8281
+1106,Anne Lane,6943 Lyons Hill,Raleigh,NC,27605,1-(919)752-8785,4739
+1107,Johnny Griffin,4 Ludington Drive,Phoenix,AZ,85035,1-(623)163-9252,9155
+1108,Heather Grant,3483 Kings Road,Tampa,FL,33620,1-(813)117-3899,4006
+1109,Walter Freeman,9 Sunfield Junction,Richmond,CA,94807,1-(510)321-1192,2513
+1110,Stephen Spencer,100 Sunfield Parkway,Naperville,IL,60567,1-(630)535-8250,6882
+1111,Billy Price,299 Arapahoe Drive,Charleston,WV,25336,1-(304)512-5718,581
+1112,Benjamin Peters,85 Crownhardt Drive,West Palm Beach,FL,33416,1-(561)783-6174,6780
+1113,Betty Oliver,370 Lunder Plaza,Pensacola,FL,32520,1-(850)281-6425,8906
+1114,Howard Gardner,31 Sugar Parkway,Fresno,CA,93721,1-(559)170-6634,4759
+1115,Carolyn Turner,14250 Hintze Pass,Panama City,FL,32412,1-(850)206-9090,2341
+1116,Kathy Andrews,39663 Esker Plaza,New York City,NY,10009,1-(646)239-6234,7839
+1117,Aaron Hawkins,71414 Prentice Place,Littleton,CO,80161,1-(720)406-8069,7977
+1118,Joshua Martin,2 Boyd Lane,Jacksonville,FL,32236,1-(904)216-6003,5736
+1119,Catherine Harvey,74 Buena Vista Junction,Jamaica,NY,11447,1-(718)846-4339,2106
+1120,Jacqueline Alvarez,1282 Clyde Gallagher Alley,Levittown,PA,19058,1-(267)898-8771,8215
+1121,Christina Morris,27 Killdeer Place,Brockton,MA,02305,1-(508)653-3224,6461
+1122,Helen Berry,4 Quincy Way,Littleton,CO,80126,1-(720)228-7766,4150
+1123,Billy Burns,22071 Merrick Way,Des Moines,IA,50362,1-(515)871-1646,3238
+1124,Scott Gray,1 Laurel Circle,Chicago,IL,60624,1-(312)632-1394,7249
+1125,Catherine Gilbert,802 Briar Crest Lane,Springfield,IL,62705,1-(217)310-4871,3123
+1126,Lisa Mccoy,388 Anhalt Alley,Miami,FL,33283,1-(305)565-7559,5168
+1127,David Dean,2 Lyons Junction,Seattle,WA,98133,1-(425)137-7468,4586
+1128,Marilyn Jordan,1 3rd Park,Wilkes Barre,PA,18768,1-(570)135-7469,1019
+1129,Beverly Snyder,97517 Sundown Parkway,Hartford,CT,06183,1-(860)785-5190,6092
+1130,Brandon Lopez,1645 Riverside Alley,Lafayette,LA,70593,1-(337)667-6707,4772
+1131,Ann Thomas,67554 Nobel Avenue,Tyler,TX,75705,1-(903)800-8170,9189
+1132,Walter Perez,417 Morning Place,Washington,DC,20508,1-(202)803-4790,8171
+1133,Kathryn Mcdonald,0601 Briar Crest Junction,Frankfort,KY,40618,1-(502)616-3093,4020
+1134,Kathleen Palmer,02764 Erie Drive,Atlanta,GA,30306,1-(404)535-6428,855
+1135,James Lopez,693 Roxbury Park,Oklahoma City,OK,73142,1-(405)929-6839,3582
+1136,Susan Ellis,95914 Holy Cross Junction,Tampa,FL,33633,1-(813)397-9626,3430
+1137,Kelly Sullivan,88449 Mcguire Park,Longview,TX,75605,1-(903)473-3070,5661
+1138,Terry Harrison,28 Hooker Avenue,Richmond,VA,23272,1-(804)537-8762,2745
+1139,Debra Campbell,7318 Mesta Court,San Jose,CA,95173,1-(408)277-2087,4164
+1140,Robert Holmes,5 Tennessee Circle,Falls Church,VA,22047,1-(571)480-0178,7861
+1141,Carl Bell,301 Towne Trail,Houston,TX,77299,1-(713)273-6953,3431
+1142,Aaron Schmidt,18911 Amoth Crossing,Spartanburg,SC,29305,1-(864)699-7398,1737
+1143,Jerry Mccoy,0 Pierstorff Plaza,Canton,OH,44705,1-(330)892-0609,8943
+1144,Beverly Day,302 Dakota Alley,Columbus,OH,43268,1-(614)324-5926,3743
+1145,Adam Russell,29345 Transport Road,Dallas,TX,75392,1-(214)553-1837,6450
+1146,Roger Robertson,7112 Rutledge Crossing,Washington,DC,20022,1-(202)773-4876,6858
+1147,Joe Nguyen,0672 Elka Court,Denver,CO,80228,1-(720)990-2365,4346
+1148,Justin Moore,1 Waxwing Parkway,Shreveport,LA,71130,1-(318)994-4967,7539
+1149,Bonnie Walker,193 Carey Place,New York City,NY,10034,1-(917)922-1544,1317
+1150,Martin Lane,1600 Arrowood Terrace,Athens,GA,30605,1-(706)959-0631,8385
+1151,Kathleen Mendoza,9 Helena Way,San Antonio,TX,78205,1-(210)484-0076,7637
+1152,Kathy Torres,8 Tennessee Junction,Dallas,TX,75246,1-(972)357-8537,5723
+1153,Joseph Hunter,05127 Dunning Plaza,Saint Paul,MN,55146,1-(651)615-2344,6909
+1154,Marilyn Ramos,09812 Shopko Crossing,Salt Lake City,UT,84115,1-(801)468-8058,6287
+1155,Douglas Jordan,95447 Farragut Parkway,Chico,CA,95973,1-(916)555-6056,4022
+1156,Donald Roberts,588 Oriole Way,Houston,TX,77040,1-(832)847-7797,2478
+1157,Carlos Schmidt,44808 Kipling Street,Las Vegas,NV,89155,1-(702)986-7836,6710
+1158,Paul Richards,5 Huxley Street,Washington,DC,20016,1-(202)784-6760,6773
+1159,Michelle Perry,62886 Quincy Road,Saint Petersburg,FL,33742,1-(727)883-0921,6255
+1160,Angela Cruz,9260 Blaine Way,Jacksonville,FL,32225,1-(904)929-8224,9456
+1161,Theresa Reynolds,2 Blackbird Lane,Dayton,OH,45419,1-(937)964-1171,7108
+1162,Jessica Myers,1 Jay Pass,San Jose,CA,95155,1-(408)160-8809,7304
+1163,Brandon Hughes,0606 Nevada Circle,Indianapolis,IN,46295,1-(317)431-0574,2704
+1164,Robin Long,0 Ridgeway Center,Newark,NJ,07112,1-(201)801-5011,6787
+1165,John Franklin,1334 Swallow Center,Lafayette,IN,47905,1-(765)712-7498,3481
+1166,Denise Watson,79477 Lillian Road,Huntington,WV,25711,1-(304)900-2011,1004
+1167,Laura Stephens,1 3rd Court,Santa Barbara,CA,93106,1-(805)932-0466,1223
+1168,Richard Daniels,3088 Melrose Hill,Spokane,WA,99205,1-(509)711-7289,2800
+1169,Clarence Brown,73 Chive Crossing,New York City,NY,10120,1-(212)191-2334,3369
+1170,Michelle Ruiz,9 6th Circle,Pasadena,CA,91103,1-(323)939-5192,3655
+1171,Keith Ramirez,8883 Lyons Center,Philadelphia,PA,19141,1-(215)648-0964,7624
+1172,David Stewart,574 Gerald Center,Birmingham,AL,35231,1-(205)528-0898,7752
+1173,David Fowler,81 Fallview Terrace,Birmingham,AL,35290,1-(205)282-9436,9562
+1174,Joan Russell,99724 Mallory Court,Columbus,OH,43231,1-(614)717-0858,3316
+1175,Jean Rodriguez,561 Manley Way,South Bend,IN,46634,1-(574)979-7941,1991
+1176,Diana Marshall,99 Monument Street,Macon,GA,31205,1-(478)824-2199,1583
+1177,Mark Pierce,54 Superior Parkway,Denver,CO,80270,1-(303)507-0184,8484
+1178,Juan Banks,2 Harbort Road,Mobile,AL,36622,1-(251)778-2863,2927
+1179,Juan Hughes,6878 Bartelt Avenue,New York City,NY,10150,1-(212)392-2814,6562
+1180,Victor Ramirez,63 Transport Street,Washington,DC,20205,1-(202)761-6424,3887
+1181,Victor Hawkins,733 Bunker Hill Point,Richmond,VA,23225,1-(804)885-4017,7537
+1182,Robin Berry,86405 Sutherland Point,Shreveport,LA,71166,1-(318)174-2409,9015
+1183,Margaret Sullivan,2 Main Way,San Antonio,TX,78285,1-(210)682-0366,2218
+1184,Kelly Carter,7 Bunker Hill Point,Eugene,OR,97405,1-(541)843-3509,4193
+1185,Ruby Hicks,58978 Farragut Road,North Hollywood,CA,91616,1-(213)416-9575,4103
+1186,Robin Banks,508 Veith Street,Lansing,MI,48930,1-(517)968-1930,6693
+1187,Jeffrey Alexander,1 Morrow Alley,Portland,OR,97286,1-(503)574-5689,6379
+1188,Daniel Garcia,1 Talisman Crossing,Waterbury,CT,06721,1-(203)285-4882,3685
+1189,Matthew Alexander,5 Shoshone Circle,Cincinnati,OH,45208,1-(513)379-9264,9273
+1190,Emily West,1147 Monica Street,Austin,TX,78764,1-(512)381-4080,2938
+1191,Roger Watson,840 Oak Street,New York City,NY,10270,1-(917)917-8749,3802
+1192,Daniel Dunn,38 Bunker Hill Way,Denver,CO,80270,1-(303)345-6198,1451
+1193,Juan Fowler,0291 Anniversary Lane,Shawnee Mission,KS,66286,1-(913)389-3586,4106
+1194,Keith Simpson,68569 Packers Park,North Las Vegas,NV,89087,1-(702)897-4339,9320
+1195,Julie Daniels,701 Everett Crossing,Youngstown,OH,44505,1-(330)736-6513,7617
+1196,Ruth Perry,37 Havey Avenue,Saint Petersburg,FL,33715,1-(727)461-8664,7557
+1197,Jeffrey Pierce,688 Wayridge Point,Pueblo,CO,81010,1-(719)181-9663,4921
+1198,Keith Rice,37 Blaine Hill,Washington,DC,20029,1-(202)154-2770,8044
+1199,Kelly Wagner,3280 Barby Plaza,Lexington,KY,40505,1-(859)596-0995,4934
+1200,Lawrence Holmes,78 Rowland Street,Houston,TX,77276,1-(713)524-4249,3643
+1201,Julie Powell,88 Schmedeman Circle,Decatur,IL,62525,1-(217)583-2798,7968
+1202,Phyllis Marshall,6 Pine View Crossing,Phoenix,AZ,85099,1-(602)206-3091,8679
+1203,Sarah Porter,986 Maywood Hill,Lake Worth,FL,33467,1-(561)873-4125,5822
+1204,Paula Fields,624 Nevada Drive,Birmingham,AL,35236,1-(205)320-5322,7509
+1205,Bruce Franklin,9 Glendale Way,Omaha,NE,68164,1-(402)397-7452,4136
+1206,Patricia Reid,99291 Oneill Park,Austin,TX,78726,1-(512)392-4594,9590
+1207,Joshua Marshall,0 Lien Crossing,Boise,ID,83716,1-(208)581-9255,5903
+1208,Sara Johnson,06786 Iowa Street,Miami,FL,33129,1-(305)705-2247,9114
+1209,Wanda Murphy,6407 Kings Way,Sparks,NV,89436,1-(775)985-0586,7012
+1210,Debra Ortiz,21 Leroy Point,Baton Rouge,LA,70820,1-(225)989-1516,4109
+1211,Joseph Bishop,55 Dovetail Street,Saint Louis,MO,63136,1-(314)947-2661,7739
+1212,Howard Brown,2 Menomonie Drive,Santa Cruz,CA,95064,1-(831)937-5444,7490
+1213,Carolyn Peters,50055 Huxley Court,Buffalo,NY,14263,1-(716)808-8798,4006
+1214,Douglas Fisher,4 Erie Place,Saint Louis,MO,63167,1-(314)730-7599,2790
+1215,Ernest Martin,8019 Spohn Hill,Oceanside,CA,92056,1-(760)338-5831,9199
+1216,Shirley Kennedy,19 Stone Corner Way,Las Vegas,NV,89130,1-(702)920-0821,5870
+1217,Teresa Wood,0063 Morrow Plaza,Las Vegas,NV,89115,1-(702)162-7203,8703
+1218,Rose Gibson,791 Dexter Road,Atlanta,GA,30336,1-(404)586-1881,2798
+1219,Charles Gutierrez,83640 Charing Cross Parkway,Columbia,SC,29240,1-(803)329-5090,3256
+1220,Katherine Jenkins,2772 Emmet Crossing,Olympia,WA,98516,1-(360)287-5277,2136
+1221,Jean Elliott,783 Brickson Park Parkway,Louisville,KY,40280,1-(502)311-2721,9678
+1222,Amy Kim,2622 Hoepker Way,Bismarck,ND,58505,1-(701)625-0474,2304
+1223,Douglas Lawson,0684 Mallory Parkway,Huntsville,TX,77343,1-(936)580-3105,2923
+1224,Jonathan Owens,85595 Canary Park,Harrisburg,PA,17126,1-(717)356-1898,3889
+1225,Ronald Murray,95 6th Alley,Saint Paul,MN,55103,1-(651)666-8466,3066
+1226,Howard Harvey,47 Anzinger Hill,Washington,DC,20436,1-(202)425-6530,8177
+1227,Carol Berry,1 Walton Center,Chicago,IL,60630,1-(312)297-2364,6420
+1228,Antonio Oliver,613 Dorton Trail,Harrisburg,PA,17110,1-(717)559-0498,5114
+1229,Laura Alvarez,9855 Fremont Street,Richmond,VA,23225,1-(540)743-7773,3126
+1230,Teresa Howell,71913 Golf Terrace,Albuquerque,NM,87121,1-(505)597-1259,3716
+1231,Nancy Johnston,6209 Mallard Road,Atlanta,GA,30358,1-(404)794-1211,4396
+1232,Brian Matthews,6138 Lotheville Avenue,Honolulu,HI,96815,1-(808)901-0951,2418
+1233,Betty Peters,0 Spaight Trail,Washington,DC,20414,1-(202)366-5446,9026
+1234,Shirley Porter,42 Mandrake Lane,Peoria,IL,61651,1-(309)180-9424,6256
+1235,Janet Morales,7 Thackeray Park,Dallas,TX,75231,1-(469)113-1347,1787
+1236,Philip Webb,0 Badeau Road,Charlotte,NC,28278,1-(704)779-2306,4255
+1237,Philip Tucker,77 Raven Avenue,Dayton,OH,45414,1-(937)351-3708,1244
+1238,Christina Arnold,924 Oak Valley Parkway,Los Angeles,CA,90101,1-(213)977-1343,1320
+1239,Betty Evans,14 Lawn Terrace,Tucson,AZ,85748,1-(520)467-2655,3755
+1240,Anthony Martinez,4184 Milwaukee Way,Oakland,CA,94627,1-(510)850-9787,8432
+1241,Pamela Jordan,94 Tomscot Park,San Antonio,TX,78225,1-(210)351-2126,7313
+1242,Johnny Coleman,0 Melvin Pass,Prescott,AZ,86305,1-(928)333-5131,6038
+1243,Jonathan Nguyen,961 Chive Trail,Dallas,TX,75210,1-(214)636-5208,2223
+1244,Alice Campbell,143 Stuart Place,Houston,TX,77010,1-(832)336-2310,1402
+1245,Amanda Harrison,114 Prairieview Alley,Jamaica,NY,11480,1-(718)943-8780,7759
+1246,Christina Gordon,5 Helena Way,Columbia,SC,29208,1-(803)980-8677,1267
+1247,Ruth Taylor,66 Kennedy Road,Erie,PA,16565,1-(814)900-0791,2763
+1248,Bruce Ellis,9 Straubel Circle,Hartford,CT,06152,1-(860)580-9857,8333
+1249,Teresa Ruiz,9121 Namekagon Terrace,Columbus,OH,43231,1-(614)539-8129,2558
+1250,Janice Griffin,61312 Jenna Alley,Jersey City,NJ,07305,1-(201)856-3311,5161
+1251,Kevin Green,1 Delladonna Alley,Atlanta,GA,30328,1-(678)205-1558,4822
+1252,Willie Cruz,07728 Westport Avenue,Jacksonville,FL,32230,1-(904)444-3726,8704
+1253,Brian Davis,98810 Spohn Drive,Dayton,OH,45426,1-(937)947-4284,1239
+1254,Elizabeth Nichols,6764 Monterey Trail,Houston,TX,77005,1-(214)121-8567,801
+1255,Harold Cole,65 Graceland Place,Savannah,GA,31405,1-(912)231-2046,5807
+1256,Anthony Perry,4572 Del Sol Way,Modesto,CA,95354,1-(209)146-4466,7293
+1257,Frances Jacobs,0232 Butternut Street,Amarillo,TX,79159,1-(806)807-0738,1471
+1258,Fred Wilson,8485 Vera Avenue,Wichita,KS,67220,1-(316)983-5031,5681
+1259,Brian Turner,38746 Lakeland Court,Frederick,MD,21705,1-(240)420-7946,1285
+1260,Todd Roberts,98521 Independence Pass,New York City,NY,10160,1-(212)821-4481,3147
+1261,Joan Davis,50043 Cardinal Pass,Frankfort,KY,40618,1-(502)325-9040,6940
+1262,Brian Hughes,3977 Golf Course Avenue,Pensacola,FL,32590,1-(850)298-2542,5195
+1263,Amanda Alvarez,6 Prairie Rose Street,Jacksonville,FL,32259,1-(904)250-8032,7455
+1264,Julia Matthews,1980 Arkansas Street,Dallas,TX,75260,1-(214)202-7747,2000
+1265,Gloria Armstrong,16 Sage Place,Salt Lake City,UT,84105,1-(801)365-5997,5834
+1266,Benjamin Little,984 Shasta Parkway,Atlanta,GA,30386,1-(404)213-3883,1847
+1267,Joseph Mcdonald,87 Hanson Street,Louisville,KY,40266,1-(502)291-6118,1668
+1268,Kathy Hill,3 Crescent Oaks Pass,Lexington,KY,40515,1-(859)760-2244,8110
+1269,Gerald Perez,0 Northview Center,Pasadena,CA,91125,1-(626)381-4685,814
+1270,Emily Riley,5 Corben Crossing,Lubbock,TX,79415,1-(806)860-5330,2850
+1271,Anne Evans,40397 Trailsway Circle,Brea,CA,92822,1-(818)831-6159,1432
+1272,Virginia Harvey,820 Erie Park,Nashville,TN,37240,1-(615)106-1239,6835
+1273,Nicole Griffin,3 Declaration Crossing,Woburn,MA,01813,1-(339)815-3998,1232
+1274,Philip Wallace,29247 Village Green Road,Gaithersburg,MD,20883,1-(240)896-8904,5803
+1275,Donald Moore,7 Gina Hill,Stockton,CA,95219,1-(209)436-3451,5619
+1276,Lisa Hanson,36 Garrison Place,Tacoma,WA,98447,1-(253)942-7597,1042
+1277,Matthew Gonzalez,3888 Stoughton Alley,Jacksonville,FL,32220,1-(904)919-0968,7938
+1278,James Weaver,84 Sugar Way,Salt Lake City,UT,84145,1-(801)299-2366,7088
+1279,Lawrence Richards,90 Sachs Avenue,Louisville,KY,40225,1-(502)585-4344,5953
+1280,Shirley Fowler,21 Magdeline Alley,Silver Spring,MD,20918,1-(240)658-0707,5245
+1281,Eric Johnston,22153 Anderson Street,Charlotte,NC,28263,1-(704)754-3406,9318
+1282,Ronald Shaw,29 Park Meadow Parkway,Kansas City,MO,64199,1-(816)312-2681,4458
+1283,Robin Cook,657 Barby Junction,Shawnee Mission,KS,66215,1-(913)119-8398,6809
+1284,Rose Lopez,7 Surrey Point,Saint Joseph,MO,64504,1-(816)693-5963,6252
+1285,Alan Pierce,3618 Blackbird Lane,Garland,TX,75044,1-(972)169-1878,962
+1286,Judith Brown,6265 Clove Alley,Milwaukee,WI,53215,1-(414)316-4032,1873
+1287,Stephanie Rice,9425 Gulseth Street,Hartford,CT,06140,1-(860)218-4118,6023
+1288,Christopher Jenkins,57743 Algoma Circle,Brooklyn,NY,11236,1-(718)888-2949,8270
+1289,Louise Peters,88792 Moulton Court,Orlando,FL,32825,1-(321)997-4053,4458
+1290,Roger Green,98024 Bartillon Junction,Northridge,CA,91328,1-(818)827-4782,3887
+1291,Ruth Woods,0315 Valley Edge Drive,Huntington,WV,25705,1-(304)655-6659,1649
+1292,Frances Simmons,7419 Rieder Hill,New Orleans,LA,70174,1-(504)158-5044,4237
+1293,Roy Carroll,7 Service Terrace,Kansas City,MO,64114,1-(816)425-3801,2509
+1294,Phyllis Alvarez,6293 Continental Avenue,Cincinnati,OH,45228,1-(513)532-2681,1527
+1295,Sharon Lopez,34073 Dapin Court,Mobile,AL,36610,1-(251)234-2105,1545
+1296,Mary Flores,211 Banding Center,Wilmington,DE,19897,1-(302)954-5023,1580
+1297,Stephanie Smith,7960 Donald Parkway,Louisville,KY,40287,1-(502)243-4566,9231
+1298,Jennifer Shaw,5 Badeau Way,Des Moines,IA,50362,1-(515)503-4186,5031
+1299,Lisa Coleman,1 Old Gate Alley,Pensacola,FL,32575,1-(850)962-6822,2906
+1300,Christina Cole,8552 Rutledge Crossing,Erie,PA,16565,1-(814)370-4762,6550
+1301,Walter Palmer,469 Mitchell Center,Fort Lauderdale,FL,33320,1-(754)769-5505,2917
+1302,John Ward,528 Ronald Regan Terrace,San Antonio,TX,78225,1-(210)990-4274,1874
+1303,Melissa Walker,49910 Merrick Place,Los Angeles,CA,90030,1-(213)939-9640,8889
+1304,Emily Lane,146 Susan Center,Carson City,NV,89714,1-(775)827-4184,4763
+1305,Mildred Brooks,68696 Shoshone Avenue,Chicago,IL,60624,1-(312)966-7255,4098
+1306,Gerald Carter,0 Moulton Drive,Humble,TX,77346,1-(281)467-3268,6525
+1307,Helen Evans,91281 Graedel Lane,Mountain View,CA,94042,1-(650)150-8598,9190
+1308,Norma Vasquez,8 Gale Center,El Paso,TX,88558,1-(915)684-9312,2936
+1309,Alice Moore,7467 Buena Vista Circle,Jacksonville,FL,32236,1-(904)985-7037,8855
+1310,Patrick Simmons,5 Dexter Alley,Cincinnati,OH,45999,1-(513)364-6008,8008
+1311,Janice Patterson,89333 Oakridge Avenue,Boston,MA,02283,1-(978)204-6606,8823
+1312,Mildred Rice,81 Sloan Way,Fresno,CA,93778,1-(559)849-3968,6816
+1313,Willie Lee,783 Barby Crossing,Bethesda,MD,20892,1-(301)227-6026,3162
+1314,Joseph Stewart,7 Dwight Terrace,Scottsdale,AZ,85255,1-(480)528-4143,1903
+1315,Kathleen Wood,7847 Becker Road,Tucson,AZ,85715,1-(520)260-8508,3957
+1316,Kelly Harrison,43500 Dorton Court,Tampa,FL,33673,1-(813)339-7018,2112
+1317,Kenneth Powell,9410 Menomonie Point,Pittsburgh,PA,15250,1-(412)557-8734,3058
+1318,Victor Bishop,84582 Doe Crossing Lane,Manassas,VA,22111,1-(434)936-8466,942
+1319,Janet Patterson,9194 Mosinee Alley,Rochester,NY,14683,1-(585)585-5159,1942
+1320,Judy Freeman,96501 Thackeray Junction,Los Angeles,CA,90040,1-(310)179-1511,8124
+1321,Helen Greene,35317 Mayfield Court,Las Vegas,NV,89120,1-(702)342-7524,5168
+1322,Kimberly Ramirez,8 Fulton Park,Cheyenne,WY,82007,1-(307)529-1285,8228
+1323,Marilyn Brown,4 Sherman Hill,Manassas,VA,22111,1-(434)203-5741,9351
+1324,Martha Perkins,800 Buell Road,El Paso,TX,88574,1-(915)584-5962,728
+1325,Linda Austin,60379 Springs Terrace,Tuscaloosa,AL,35487,1-(205)798-0710,3283
+1326,Chris Peterson,8691 Erie Avenue,Dallas,TX,75392,1-(214)644-5261,4271
+1327,Pamela Hall,731 Sycamore Terrace,Las Cruces,NM,88006,1-(505)319-1606,2303
+1328,Virginia Russell,4387 Fordem Parkway,Des Moines,IA,50347,1-(515)771-2988,7774
+1329,Matthew James,43 Lawn Parkway,Nashville,TN,37210,1-(615)614-1212,4460
+1330,Brenda Hernandez,8 Sullivan Avenue,Maple Plain,MN,55579,1-(952)301-9842,1321
+1331,Fred Brooks,5 Becker Place,Minneapolis,MN,55402,1-(651)987-0111,4692
+1332,Stephanie Burton,49423 Merchant Junction,Burbank,CA,91520,1-(818)536-3524,2369
+1333,Peter Cooper,683 Raven Court,Norfolk,VA,23514,1-(757)167-9529,2377
+1334,Lori Gonzalez,2 Scott Place,Norfolk,VA,23551,1-(757)376-2593,3799
+1335,Samuel Perkins,5568 Utah Road,Rockford,IL,61110,1-(815)188-4070,2707
+1336,Andrew Sanders,517 Autumn Leaf Trail,Long Beach,CA,90840,1-(562)936-6322,6671
+1337,Louis Howard,582 Chinook Alley,Louisville,KY,40298,1-(502)393-8480,6759
+1338,Christine Coleman,045 Kedzie Terrace,Wilkes Barre,PA,18706,1-(570)376-2048,9308
+1339,Shirley George,6 Sundown Center,Anchorage,AK,99507,1-(907)570-3482,9627
+1340,Larry Banks,27 Stuart Plaza,Atlanta,GA,31136,1-(404)873-9661,4559
+1341,Juan Watson,34 Farmco Way,Washington,DC,20392,1-(202)799-1362,3504
+1342,Jose Rodriguez,63 Kinsman Junction,Erie,PA,16565,1-(814)172-7263,9465
+1343,Billy Romero,9248 Valley Edge Alley,Fort Lauderdale,FL,33330,1-(954)850-7255,6063
+1344,Rachel Snyder,764 Weeping Birch Junction,Washington,DC,20392,1-(202)317-6697,6759
+1345,Melissa Robertson,09 Southridge Parkway,Buffalo,NY,14276,1-(716)463-8394,9614
+1346,Irene Rivera,71160 Rusk Hill,Orlando,FL,32825,1-(321)373-0833,3363
+1347,Diana Chavez,37 Maryland Center,Pompano Beach,FL,33064,1-(561)113-2679,5170
+1348,Carl Gonzales,703 Helena Center,Saint Louis,MO,63110,1-(314)813-0079,5682
+1349,Susan Kennedy,8 Anderson Street,Baltimore,MD,21265,1-(410)356-5809,570
+1350,Alice Harvey,0 Sundown Park,Fort Lauderdale,FL,33355,1-(754)621-9843,8885
+1351,Lisa Coleman,1 Buhler Court,Terre Haute,IN,47805,1-(812)138-2773,5708
+1352,Michelle Collins,340 Sauthoff Place,Dallas,TX,75397,1-(214)876-2025,4195
+1353,Carolyn Crawford,1185 Melvin Hill,Spokane,WA,99205,1-(509)588-0340,2964
+1354,Bruce Lee,372 Sunnyside Center,Saint Paul,MN,55146,1-(651)283-7543,1876
+1355,Justin Kim,81 Twin Pines Drive,Portland,ME,04109,1-(207)703-4447,4086
+1356,Fred Tucker,7358 Anhalt Hill,El Paso,TX,88584,1-(915)538-9813,5951
+1357,Gary Rice,787 2nd Circle,Decatur,GA,30089,1-(404)102-4749,9590
+1358,Todd Hunter,5412 Lunder Circle,Las Vegas,NV,89115,1-(702)136-5837,9972
+1359,Betty Mccoy,3540 Cordelia Parkway,Wilkes Barre,PA,18768,1-(570)484-6712,5383
+1360,Julie Harper,0 Lakeland Avenue,El Paso,TX,88514,1-(915)146-6022,3242
+1361,Christine Daniels,1 Washington Street,Tulsa,OK,74141,1-(918)610-7518,826
+1362,Jason Evans,6413 Washington Alley,Des Moines,IA,50936,1-(515)199-9142,8464
+1363,Clarence Mccoy,34218 Anniversary Way,Visalia,CA,93291,1-(559)439-5313,3006
+1364,Steve Weaver,0784 Cody Plaza,Fort Worth,TX,76162,1-(682)960-9869,5770
+1365,Nancy Woods,24 Hanson Park,Louisville,KY,40298,1-(502)829-1935,5615
+1366,Gary Jones,75253 Algoma Point,Las Vegas,NV,89140,1-(702)914-9776,2724
+1367,Roger Long,5 Derek Avenue,Las Vegas,NV,89178,1-(702)261-7165,4378
+1368,Katherine Bowman,32 Texas Crossing,Wichita,KS,67230,1-(316)724-8528,3236
+1369,Christina Garrett,036 Stuart Hill,Charleston,SC,29411,1-(843)451-8236,1211
+1370,Edward Ellis,47965 Buena Vista Park,Sioux Falls,SD,57198,1-(605)826-7662,5701
+1371,David Harris,7 Manley Avenue,Boise,ID,83722,1-(208)298-6207,4350
+1372,Nicole Campbell,071 Express Place,New York City,NY,10165,1-(212)118-4975,6736
+1373,Donna Martin,2023 Vera Plaza,Columbus,GA,31904,1-(706)453-2039,3447
+1374,Victor Ortiz,64514 Killdeer Terrace,El Paso,TX,79911,1-(915)860-8584,7231
+1375,Craig Meyer,1404 Dahle Alley,El Paso,TX,79905,1-(915)788-7423,5925
+1376,Jason Morgan,0 Karstens Place,Hartford,CT,06145,1-(860)629-0265,2242
+1377,Marie White,460 Springview Point,Lansing,MI,48930,1-(517)550-4044,620
+1378,Michael Carroll,14 Macpherson Road,Charlotte,NC,28256,1-(704)585-4335,3031
+1379,Phyllis Knight,8 Gulseth Parkway,Cincinnati,OH,45238,1-(513)187-4850,8631
+1380,Billy Fowler,62825 Pawling Crossing,Fresno,CA,93704,1-(209)719-5743,2437
+1381,Harry Sullivan,89 Morning Alley,Washington,DC,20370,1-(202)762-2936,787
+1382,Wayne Cunningham,8 Warner Street,Dallas,TX,75260,1-(214)878-4070,5923
+1383,Terry Franklin,23496 Westend Plaza,Seattle,WA,98185,1-(206)395-9384,6765
+1384,Christine Roberts,26939 Northport Place,El Paso,TX,88519,1-(915)424-6496,1361
+1385,Kimberly Brown,9644 Duke Place,Monroe,LA,71208,1-(318)930-1886,6536
+1386,Susan Martinez,67 Sachs Junction,Cincinnati,OH,45218,1-(513)859-0118,2092
+1387,Gregory Vasquez,991 Clyde Gallagher Street,Pensacola,FL,32590,1-(850)456-2803,4325
+1388,Scott Gordon,722 Brentwood Court,Bradenton,FL,34205,1-(941)390-3331,1029
+1389,Rose Nelson,055 Messerschmidt Way,Greenville,SC,29615,1-(864)948-4866,1927
+1390,Paula Little,2506 Morning Road,Madison,WI,53726,1-(608)332-8842,5789
+1391,Diana James,0 Crownhardt Lane,Norfolk,VA,23520,1-(757)990-0720,9455
+1392,Randy Lynch,015 Village Parkway,Los Angeles,CA,90025,1-(626)578-8404,1200
+1393,Michelle Walker,6134 Basil Park,Columbia,SC,29208,1-(803)920-8203,4565
+1394,Justin Knight,3 David Road,Long Beach,CA,90847,1-(562)639-8618,6991
+1395,Richard Coleman,352 Eagle Crest Lane,New Haven,CT,06538,1-(203)377-1893,4661
+1396,Janet Castillo,64030 Commercial Pass,Fort Worth,TX,76129,1-(817)884-5439,7870
+1397,Norma Henderson,4 Eagan Way,Richmond,VA,23285,1-(804)412-6072,5241
+1398,Victor Wright,19960 Doe Crossing Junction,Scranton,PA,18514,1-(570)622-4489,2510
+1399,Jacqueline Henry,11541 Crownhardt Junction,Minneapolis,MN,55412,1-(651)352-1751,701
+1400,Susan White,7 Birchwood Trail,Dearborn,MI,48126,1-(313)905-6470,9400
+1401,Russell Hawkins,716 Thompson Place,New York City,NY,10184,1-(212)313-8118,5924
+1402,Juan Carroll,73284 Waubesa Circle,San Antonio,TX,78291,1-(210)195-0355,3897
+1403,Philip Long,35007 Dovetail Junction,Columbus,GA,31998,1-(706)410-0444,3288
+1404,Tammy Alexander,229 Declaration Center,Providence,RI,02905,1-(401)294-6758,7874
+1405,Amanda Snyder,260 Katie Street,Grand Forks,ND,58207,1-(701)847-9135,990
+1406,Rachel Evans,25473 Green Ridge Court,Syracuse,NY,13224,1-(315)922-5114,9434
+1407,Alice Freeman,08 Erie Way,Winston Salem,NC,27150,1-(336)213-4623,9972
+1408,Lisa Hunter,40 Darwin Park,Fort Wayne,IN,46852,1-(260)809-3246,6350
+1409,Margaret Torres,702 Clemons Road,Philadelphia,PA,19136,1-(215)830-5964,3172
+1410,Louise Shaw,8301 Algoma Center,Rochester,NY,14652,1-(585)711-8111,6358
+1411,Lori Carpenter,86 Barby Crossing,Tacoma,WA,98405,1-(253)730-3895,8649
+1412,Bonnie Cook,8 Brentwood Pass,Winston Salem,NC,27150,1-(336)851-0408,2883
+1413,Mary Hanson,6150 Veith Court,Philadelphia,PA,19191,1-(215)318-1944,588
+1414,Julia Ferguson,821 La Follette Road,Nashville,TN,37220,1-(615)816-0336,3921
+1415,David Fields,054 Hanover Center,Long Beach,CA,90840,1-(562)621-6287,8858
+1416,Bobby Gardner,87485 Lukken Hill,Houston,TX,77201,1-(713)194-5713,1985
+1417,Ann Rodriguez,72692 Rieder Parkway,Kalamazoo,MI,49048,1-(269)846-0857,5640
+1418,Shawn Dunn,5 Esch Circle,Louisville,KY,40215,1-(502)340-3042,3939
+1419,Carolyn Reed,91 Upham Court,Topeka,KS,66611,1-(785)795-9481,1290
+1420,Carlos Mitchell,2 Transport Way,San Antonio,TX,78291,1-(210)941-9123,7957
+1421,Raymond Graham,1 Blue Bill Park Way,Wichita,KS,67220,1-(316)820-2229,8124
+1422,Doris Hunter,767 Dawn Crossing,Albuquerque,NM,87201,1-(505)411-0613,1298
+1423,Sandra Wallace,08745 Mifflin Road,El Paso,TX,88525,1-(915)718-1696,3998
+1424,Margaret Ryan,9706 Cottonwood Crossing,Milwaukee,WI,53234,1-(414)205-6101,7911
+1425,Helen Reed,363 American Way,Pittsburgh,PA,15286,1-(412)192-3767,5253
+1426,Jean Kennedy,80 Sage Terrace,Saint Augustine,FL,32092,1-(904)828-3421,3792
+1427,Dennis Little,908 Clyde Gallagher Plaza,Ogden,UT,84403,1-(801)592-5375,8071
+1428,Larry Marshall,3452 Warbler Hill,Charlottesville,VA,22908,1-(434)430-1056,2900
+1429,Bonnie Murray,108 Nancy Avenue,North Little Rock,AR,72199,1-(501)181-4568,9770
+1430,Harold Riley,6065 Morrow Terrace,Decatur,GA,30033,1-(770)832-0689,7428
+1431,Carlos Jones,0306 Grasskamp Circle,Cincinnati,OH,45999,1-(513)600-6531,9938
+1432,Teresa Ramos,30566 Lindbergh Center,Elizabeth,NJ,07208,1-(908)257-6469,6962
+1433,Larry Reyes,696 Portage Center,Houston,TX,77020,1-(281)632-9749,1220
+1434,Jane Griffin,99 Orin Parkway,Canton,OH,44705,1-(330)970-1335,5674
+1435,Diane Hart,8 Leroy Hill,Tacoma,WA,98481,1-(253)452-0256,3781
+1436,Kelly Banks,7079 Transport Way,Orange,CA,92668,1-(858)520-4735,7748
+1437,Mark Hunter,1 Moulton Terrace,Jacksonville,FL,32225,1-(904)322-7743,4878
+1438,Earl Frazier,001 International Pass,New York City,NY,10175,1-(212)258-3960,3732
+1439,Carol Powell,7 Loftsgordon Place,Crawfordsville,IN,47937,1-(765)736-8555,8947
+1440,Ronald Gray,33028 Farwell Point,Burbank,CA,91520,1-(323)645-9889,1730
+1441,Joyce Carpenter,4 Westport Junction,Riverside,CA,92519,1-(951)995-9414,1990
+1442,Pamela Simmons,263 Bartelt Lane,Tampa,FL,33673,1-(813)108-7461,6458
+1443,Todd Johnston,122 Ronald Regan Crossing,Chicago,IL,60614,1-(773)587-4837,5091
+1444,Virginia Sims,85350 Butterfield Street,Augusta,GA,30911,1-(706)568-1667,9026
+1445,Jennifer Stephens,53 Burrows Pass,Pueblo,CO,81015,1-(719)226-1903,5506
+1446,Jeremy Perkins,447 Porter Parkway,Loretto,MN,55598,1-(763)863-7161,4666
+1447,Joyce Wright,8 Buhler Street,Milwaukee,WI,53234,1-(414)917-2925,4331
+1448,Keith Howard,075 Bashford Court,North Little Rock,AR,72118,1-(501)417-6173,6735
+1449,Gregory Powell,71178 Kings Lane,Modesto,CA,95354,1-(209)990-5894,3525
+1450,Cynthia Hudson,3 Nevada Avenue,Las Vegas,NV,89120,1-(702)715-2209,5687
+1451,Ruth Richardson,9364 Elmside Point,Boston,MA,02283,1-(978)753-2284,3075
+1452,Robin Sullivan,51 Schmedeman Parkway,Staten Island,NY,10305,1-(718)236-7811,6738
+1453,Pamela Ross,14838 Truax Trail,Roanoke,VA,24040,1-(540)194-0432,8008
+1454,Scott Powell,05 Brentwood Park,Berkeley,CA,94712,1-(510)869-4360,8789
+1455,Kevin Andrews,65032 Brentwood Crossing,Dallas,TX,75260,1-(214)308-3026,8701
+1456,Kathy Moreno,54532 Sugar Place,Raleigh,NC,27615,1-(919)737-5414,3884
+1457,Irene Fowler,15072 Toban Center,Winston Salem,NC,27105,1-(336)230-8306,609
+1458,Carlos Marshall,5645 Reindahl Drive,Pensacola,FL,32595,1-(850)760-8625,7045
+1459,Benjamin Hunter,4684 Forest Dale Crossing,Fresno,CA,93726,1-(209)703-0246,9416
+1460,Linda Stevens,04 Farragut Crossing,Little Rock,AR,72204,1-(501)627-7000,5639
+1461,Joyce Rose,426 Bowman Terrace,Long Beach,CA,90831,1-(562)175-6486,900
+1462,Heather Ramos,02388 Judy Place,Omaha,NE,68105,1-(402)803-0335,7503
+1463,Albert Stephens,6 Farmco Pass,Atlanta,GA,31106,1-(404)789-8837,5688
+1464,Judith Welch,1535 Lien Terrace,Clearwater,FL,34620,1-(727)592-0817,2050
+1465,Carol Torres,146 Surrey Way,Bethesda,MD,20892,1-(301)596-0505,4783
+1466,Teresa Owens,8 Towne Pass,Port Saint Lucie,FL,34985,1-(772)718-1991,8722
+1467,Cheryl Fisher,01841 Fallview Terrace,Huntington,WV,25721,1-(304)324-4696,5934
+1468,Todd Hughes,4 Transport Terrace,Fort Worth,TX,76134,1-(817)917-8225,2733
+1469,Roger Sanchez,37 Kensington Alley,Denver,CO,80255,1-(303)530-4764,9029
+1470,William Reed,62457 Linden Park,Phoenix,AZ,85035,1-(623)635-8212,8173
+1471,Wayne Gordon,318 Anniversary Trail,Jefferson City,MO,65110,1-(573)879-3864,5073
+1472,Michael Fisher,26 Everett Pass,Billings,MT,59105,1-(406)255-2036,8023
+1473,Terry Flores,44421 Park Meadow Road,Lubbock,TX,79415,1-(806)347-6407,6607
+1474,Heather Collins,01275 Harbort Junction,Honolulu,HI,96825,1-(808)906-9558,2537
+1475,Annie George,85813 Southridge Alley,Shreveport,LA,71161,1-(318)461-0367,1785
+1476,Christine Watson,8 Loftsgordon Crossing,Albuquerque,NM,87140,1-(505)181-1443,7955
+1477,Willie Hernandez,0 Straubel Alley,Harrisburg,PA,17110,1-(717)518-2925,7896
+1478,Kimberly Diaz,47275 Fallview Trail,Lancaster,PA,17622,1-(717)634-5036,7927
+1479,Donald Myers,7815 Hovde Way,Los Angeles,CA,90081,1-(213)178-3950,7236
+1480,Louise Medina,84 Sachs Circle,Dayton,OH,45403,1-(937)506-2366,1422
+1481,Amanda Dixon,8805 Kim Pass,Dayton,OH,45454,1-(937)147-2166,4253
+1482,Elizabeth Russell,1 Hagan Avenue,Vero Beach,FL,32964,1-(772)818-0094,8707
+1483,Carol Larson,74 Almo Trail,Miami,FL,33158,1-(305)832-6373,6631
+1484,Dennis Foster,097 Melody Way,Trenton,NJ,08638,1-(609)400-3035,1090
+1485,Peter Stone,8278 Bashford Trail,Denver,CO,80262,1-(303)289-7250,8096
+1486,Kathryn Butler,66 Mendota Hill,Houston,TX,77240,1-(713)957-5430,6559
+1487,Nancy Alexander,2 Stang Lane,Springfield,IL,62705,1-(217)233-8612,4204
+1488,Christine Ryan,08 Myrtle Terrace,Boston,MA,02298,1-(617)380-1769,2188
+1489,Eric Perez,457 Little Fleur Plaza,Lexington,KY,40505,1-(859)229-6236,3632
+1490,Clarence Garcia,8703 Towne Way,Amarillo,TX,79159,1-(806)289-0029,7150
+1491,Theresa James,546 Aberg Plaza,Saint Louis,MO,63196,1-(314)510-7899,8305
+1492,Joe Jacobs,07 Hoffman Street,Mc Keesport,PA,15134,1-(412)399-3449,6691
+1493,Norma Ramos,153 Oak Valley Parkway,Baton Rouge,LA,70836,1-(225)362-4182,9663
+1494,Wayne Gutierrez,63306 Reinke Hill,Orlando,FL,32808,1-(321)863-1509,8347
+1495,Elizabeth Duncan,697 Sundown Point,San Francisco,CA,94169,1-(415)446-5140,9993
+1496,Martin Fox,88 Michigan Drive,Littleton,CO,80161,1-(720)784-5347,904
+1497,Susan Gardner,728 Randy Alley,Minneapolis,MN,55458,1-(612)265-6803,5813
+1498,Jonathan Lee,018 Cascade Plaza,Lawrenceville,GA,30245,1-(678)555-0062,4011
+1499,Irene Hansen,63405 West Way,Melbourne,FL,32941,1-(321)873-0952,8326
+1500,Jose Kelly,25637 Lien Drive,Pocatello,ID,83206,1-(208)991-8244,2861
+1501,Tammy Carter,2 Kinsman Street,San Diego,CA,92105,1-(619)198-0009,6404
+1502,Chris Garza,60984 Washington Avenue,Largo,FL,33777,1-(727)993-5552,9480
+1503,Jimmy Bryant,671 Kedzie Drive,Phoenix,AZ,85062,1-(602)780-7494,4336
+1504,Christina Frazier,574 Lighthouse Bay Park,Birmingham,AL,35295,1-(205)735-3147,8997
+1505,Susan Stevens,9413 Old Gate Street,Los Angeles,CA,90040,1-(714)200-6333,8522
+1506,Donna Arnold,90 Katie Plaza,Frankfort,KY,40618,1-(502)776-2491,8532
+1507,Lisa Woods,0 Bashford Crossing,Arlington,VA,22225,1-(571)599-7397,6826
+1508,Ronald Jackson,612 Golf Drive,Reading,PA,19605,1-(484)700-7434,7408
+1509,Annie Mendoza,6 Clemons Place,Alexandria,VA,22301,1-(202)408-7696,3994
+1510,Marie Hicks,130 Garrison Terrace,Des Moines,IA,50393,1-(515)809-2401,6503
+1511,Jeffrey Stevens,2 Talmadge Hill,Miami,FL,33153,1-(786)500-8411,2704
+1512,Marilyn Carroll,562 Park Meadow Avenue,Grand Junction,CO,81505,1-(970)541-6313,5287
+1513,Martha Hawkins,8 Claremont Plaza,Atlanta,GA,30351,1-(404)154-9785,5964
+1514,Kathryn Bailey,6 North Court,Detroit,MI,48206,1-(810)807-8369,7968
+1515,John Peterson,032 Tennessee Lane,Anniston,AL,36205,1-(256)519-7650,7614
+1516,Andrea Cox,02432 Melrose Crossing,Midland,MI,48670,1-(989)951-4854,2777
+1517,Keith Hudson,92701 Meadow Ridge Junction,Salem,OR,97312,1-(971)446-2950,1944
+1518,Lillian Stanley,4 Butterfield Avenue,Minneapolis,MN,55436,1-(612)742-9837,805
+1519,Laura Perkins,02507 Spohn Court,Huntsville,AL,35895,1-(256)547-2431,902
+1520,Walter Morris,5528 South Circle,Pasadena,CA,91199,1-(626)270-1328,4670
+1521,Jerry Fowler,53 Northport Terrace,Lubbock,TX,79415,1-(806)696-1008,6661
+1522,Brenda Young,4493 Bashford Park,San Antonio,TX,78215,1-(210)220-8586,9370
+1523,Pamela Mills,843 Park Meadow Place,Wilkes Barre,PA,18706,1-(570)762-5669,6996
+1524,Jean Peters,232 Esker Alley,Knoxville,TN,37931,1-(865)446-4145,7867
+1525,Stephanie Miller,7086 Helena Circle,El Paso,TX,88558,1-(915)247-4518,9920
+1526,Jane Garcia,14202 Golf View Trail,Cleveland,OH,44125,1-(440)576-5838,583
+1527,Sara Wright,03118 Farwell Hill,Charlotte,NC,28299,1-(704)515-5116,5152
+1528,Helen Thompson,2 Coolidge Road,Memphis,TN,38126,1-(901)343-3865,514
+1529,Albert Garza,2 Westend Pass,Arlington,TX,76011,1-(817)949-0992,4933
+1530,Brandon Hunter,0418 Northland Park,Akron,OH,44310,1-(330)413-3089,9999
+1531,Helen Daniels,6845 Pearson Pass,Albany,NY,12242,1-(518)169-9999,8330
+1532,Kelly Hill,0 Orin Park,San Jose,CA,95108,1-(408)799-7794,8056
+1533,Kenneth Gutierrez,514 Westport Lane,Jackson,MS,39236,1-(601)269-4521,5025
+1534,Daniel Robinson,07 Delladonna Park,Tucson,AZ,85748,1-(520)868-5681,7118
+1535,Linda Allen,51 Moulton Lane,Orlando,FL,32859,1-(407)777-4691,9366
+1536,Craig Hicks,672 Lotheville Drive,Duluth,MN,55811,1-(218)168-7834,5008
+1537,Cynthia Carpenter,75051 Pond Alley,Saint Louis,MO,63116,1-(314)120-7340,567
+1538,Sarah Foster,07 Canary Terrace,Phoenix,AZ,85062,1-(602)279-5629,6972
+1539,Jose Gutierrez,318 Oriole Place,Dallas,TX,75251,1-(214)951-6600,5861
+1540,Jose Mccoy,4 Dottie Point,Wichita,KS,67236,1-(316)863-7670,7432
+1541,Ann Little,6 David Road,Baton Rouge,LA,70883,1-(225)599-1642,2204
+1542,Willie Stanley,86 Heffernan Circle,Orlando,FL,32808,1-(407)322-8214,4763
+1543,Terry Henderson,998 Cherokee Trail,Sandy,UT,84093,1-(801)973-8682,3929
+1544,Andrea Woods,584 Rockefeller Pass,San Francisco,CA,94110,1-(415)699-3089,7289
+1545,Bruce Wood,68 Ridge Oak Terrace,Gainesville,FL,32605,1-(352)954-7573,8706
+1546,Ruby Meyer,74458 Dunning Center,Gadsden,AL,35905,1-(256)153-1531,6016
+1547,Emily Carroll,56644 Del Sol Circle,Arlington,VA,22205,1-(571)503-7097,5064
+1548,Janice Knight,2038 Lindbergh Junction,Miami,FL,33175,1-(305)647-5056,6846
+1549,Jerry Ford,876 Coolidge Drive,Chattanooga,TN,37410,1-(423)224-8400,9198
+1550,Jean Henderson,58312 Mcguire Point,Brooklyn,NY,11220,1-(718)103-7784,4588
+1551,Ronald Gordon,47 Moose Plaza,Miami,FL,33153,1-(786)420-1355,8273
+1552,Kevin Dixon,10549 Beilfuss Pass,San Antonio,TX,78240,1-(210)998-1483,1067
+1553,Keith Webb,560 Macpherson Lane,Oxnard,CA,93034,1-(805)707-8326,7776
+1554,Mildred Watkins,66 Vidon Park,Omaha,NE,68179,1-(402)270-0698,3150
+1555,Douglas Burns,1171 Warbler Plaza,Davenport,IA,52804,1-(563)460-3629,4638
+1556,Thomas Bradley,3831 Katie Place,Dallas,TX,75367,1-(214)495-3248,3522
+1557,Robin Mccoy,2640 Stephen Place,Fort Smith,AR,72905,1-(479)678-5599,5703
+1558,Bobby Stevens,737 Little Fleur Circle,Dayton,OH,45414,1-(937)588-4473,1646
+1559,Ernest Burns,2431 Fairfield Lane,Pomona,CA,91797,1-(909)517-4112,6975
+1560,Evelyn Hughes,16105 Loftsgordon Junction,Denver,CO,80279,1-(303)571-9526,1962
+1561,Patricia White,9 Sommers Lane,Providence,RI,02912,1-(401)559-6757,9317
+1562,Carolyn Mason,2 Corry Pass,Santa Fe,NM,87505,1-(505)656-8718,1087
+1563,Peter Rice,208 Walton Pass,Atlanta,GA,31165,1-(404)351-2245,2035
+1564,Martin Andrews,1241 Erie Pass,Philadelphia,PA,19141,1-(215)709-1061,3654
+1565,Carl Myers,271 Little Fleur Terrace,Columbia,SC,29215,1-(803)279-8025,6607
+1566,Jean Gutierrez,1 Parkside Terrace,Naples,FL,34108,1-(239)746-4153,2824
+1567,Michael Hughes,50 Milwaukee Lane,Pasadena,CA,91186,1-(626)682-3085,4213
+1568,Catherine Berry,5 Orin Avenue,San Antonio,TX,78205,1-(210)663-8187,1444
+1569,Christine Castillo,49 Little Fleur Circle,Garland,TX,75049,1-(214)887-4274,2063
+1570,Paula Parker,84 Everett Pass,Washington,DC,20540,1-(202)953-4835,4887
+1571,Betty Lawrence,73839 Farwell Hill,Hattiesburg,MS,39404,1-(601)672-0414,7262
+1572,Russell Carpenter,20847 Fordem Trail,Cleveland,OH,44185,1-(216)517-6484,6499
+1573,Judy Austin,48221 Randy Center,Canton,OH,44720,1-(234)117-0399,9704
+1574,Jane Pierce,01 Lakewood Gardens Street,Brooklyn,NY,11247,1-(212)434-2518,4476
+1575,Ruby Fields,190 Valley Edge Parkway,Raleigh,NC,27626,1-(919)178-6781,9945
+1576,Christopher Meyer,22 Service Lane,Tallahassee,FL,32314,1-(850)864-6142,4622
+1577,Lori Fox,048 Messerschmidt Terrace,Los Angeles,CA,90045,1-(650)106-1774,5223
+1578,Joyce Gardner,332 Sundown Parkway,Memphis,TN,38143,1-(901)156-8907,8700
+1579,Brian Lane,17964 Duke Trail,College Station,TX,77844,1-(979)380-0357,7348
+1580,Paul Perkins,25863 Glendale Circle,New Orleans,LA,70142,1-(504)655-7591,8291
+1581,Jean Wagner,2252 Claremont Alley,Columbia,SC,29240,1-(803)221-9582,9898
+1582,Lawrence Sullivan,53 Welch Plaza,Dallas,TX,75397,1-(214)561-9199,6942
+1583,Betty Brown,06691 Northfield Circle,Newark,DE,19714,1-(302)759-7580,8819
+1584,Philip Harrison,3 Lake View Junction,Saint Louis,MO,63180,1-(314)669-5461,3349
+1585,Andrea Payne,949 South Pass,Riverside,CA,92519,1-(951)263-5531,7784
+1586,Craig Holmes,367 Bayside Crossing,Fredericksburg,VA,22405,1-(540)382-8338,5333
+1587,Terry Cruz,824 Dryden Way,Sioux City,IA,51110,1-(712)754-4887,7390
+1588,Roger Harvey,856 Merrick Parkway,Atlanta,GA,31136,1-(404)343-1417,2407
+1589,Heather Reynolds,953 Carey Place,Vero Beach,FL,32969,1-(772)324-0802,5047
+1590,Marie Stephens,42678 Northwestern Center,Tampa,FL,33625,1-(727)961-7326,8737
+1591,Willie Reynolds,4349 Northview Point,Philadelphia,PA,19125,1-(215)459-8627,5125
+1592,Theresa Miller,916 La Follette Pass,San Francisco,CA,94147,1-(415)631-8397,8012
+1593,William Hamilton,5550 Rieder Parkway,Staten Island,NY,10310,1-(914)146-9088,609
+1594,Shawn Price,0709 Novick Junction,Fort Worth,TX,76147,1-(817)469-5386,2121
+1595,Carlos Gilbert,9312 Sunnyside Road,Dearborn,MI,48126,1-(313)981-0826,7439
+1596,Dennis Fowler,6383 Ilene Drive,Las Vegas,NV,89130,1-(702)813-8648,9881
+1597,Nicholas Parker,14837 Parkside Center,Monticello,MN,55565,1-(763)225-5650,4892
+1598,Irene Harvey,46 Armistice Hill,Lansing,MI,48930,1-(517)878-5113,9391
+1599,Christine Payne,1718 Manitowish Junction,Topeka,KS,66667,1-(785)878-0485,9858
+1600,Karen Lawson,6805 Manufacturers Trail,Evansville,IN,47725,1-(812)505-3590,6087
+1601,Theresa Kennedy,04 Fulton Court,Sacramento,CA,94245,1-(916)386-2354,7832
+1602,Lawrence Thomas,484 Di Loreto Crossing,Alpharetta,GA,30022,1-(678)375-0814,2097
+1603,Lori Wood,80 Sheridan Drive,San Bernardino,CA,92410,1-(909)311-8476,799
+1604,Jeffrey Johnston,0 Mallory Pass,Chicago,IL,60646,1-(312)395-1482,7559
+1605,Phyllis Moore,53 High Crossing Circle,Corpus Christi,TX,78415,1-(361)364-7753,7722
+1606,Annie Dunn,7287 Goodland Drive,Tampa,FL,33686,1-(813)363-0827,6778
+1607,Aaron Oliver,2 Namekagon Lane,Greensboro,NC,27455,1-(910)357-2167,6953
+1608,Phillip Taylor,878 Sage Park,Tampa,FL,33686,1-(813)111-0244,5412
+1609,Robert Garza,0072 Briar Crest Junction,Pittsburgh,PA,15274,1-(412)473-9317,9064
+1610,Frances Hansen,716 Manufacturers Parkway,Seattle,WA,98166,1-(253)588-6883,9335
+1611,Gloria Garza,36 Bunting Park,Charlotte,NC,28225,1-(704)552-1599,3730
+1612,Matthew Harris,91 Graceland Terrace,Miami,FL,33283,1-(305)105-7989,5339
+1613,Billy Garcia,6 Sycamore Pass,San Diego,CA,92137,1-(619)277-1191,7851
+1614,Frank Davis,923 Raven Terrace,Valley Forge,PA,19495,1-(484)667-7317,2126
+1615,Jack Russell,420 Linden Hill,Roanoke,VA,24024,1-(540)113-1583,1627
+1616,Fred Gutierrez,11027 Weeping Birch Avenue,Seattle,WA,98115,1-(206)246-7655,9504
+1617,Betty Wagner,7 Oak Valley Street,Battle Creek,MI,49018,1-(269)646-0585,8908
+1618,Samuel Wheeler,70 Eagan Place,Chattanooga,TN,37450,1-(423)601-2687,7247
+1619,Juan Lewis,68 Heffernan Plaza,Shawnee Mission,KS,66220,1-(913)408-2126,7170
+1620,Christopher Wright,2 Monterey Lane,Richmond,VA,23285,1-(804)328-9920,4751
+1621,Terry Henderson,74715 Ruskin Street,Richmond,VA,23225,1-(540)182-2946,9833
+1622,William Hall,92 Esch Drive,Sacramento,CA,94297,1-(916)184-8441,2928
+1623,Maria Pierce,36780 Raven Point,Lansing,MI,48912,1-(517)881-1336,1709
+1624,Stephanie Powell,763 Arkansas Road,Louisville,KY,40293,1-(502)565-9631,4244
+1625,Nicholas Elliott,01 Cody Place,Long Beach,CA,90810,1-(310)423-3917,7148
+1626,Russell Meyer,84083 Autumn Leaf Place,Los Angeles,CA,90189,1-(213)844-6994,9002
+1627,Melissa Greene,30277 Colorado Pass,Omaha,NE,68197,1-(402)219-3140,4251
+1628,Nicole Peters,69839 Killdeer Hill,Detroit,MI,48217,1-(313)274-1391,8813
+1629,Matthew Willis,923 Mallory Junction,Omaha,NE,68110,1-(402)704-2207,1397
+1630,Anna Banks,720 Southridge Place,Alexandria,VA,22301,1-(202)666-7712,8276
+1631,Tammy Campbell,680 Butterfield Lane,Louisville,KY,40215,1-(502)392-2595,3229
+1632,Arthur Cooper,73 Muir Hill,Amarillo,TX,79176,1-(806)455-0614,636
+1633,Maria Gonzales,0 Starling Hill,Milwaukee,WI,53263,1-(414)724-5892,3975
+1634,Carol Kelley,30831 Corry Avenue,Pittsburgh,PA,15220,1-(412)315-9014,500
+1635,Billy Schmidt,09 Rieder Crossing,Southfield,MI,48076,1-(734)608-4154,7761
+1636,Russell Clark,4145 Dixon Drive,Mobile,AL,36628,1-(251)822-3938,7564
+1637,Judith Mills,15946 Dahle Junction,Albuquerque,NM,87201,1-(505)421-6115,1705
+1638,Maria Ortiz,38477 Myrtle Park,Jacksonville,FL,32220,1-(904)131-0759,7378
+1639,Robert Carr,12 Golf Course Street,San Antonio,TX,78225,1-(210)565-0947,7911
+1640,Steven Daniels,995 Amoth Place,Pittsburgh,PA,15261,1-(412)419-3296,9048
+1641,Frances Lopez,7469 Vahlen Plaza,San Francisco,CA,94110,1-(562)661-4574,2032
+1642,Laura Spencer,88 Village Point,Bozeman,MT,59771,1-(406)131-5812,7128
+1643,Brenda Lawrence,5 Green Ridge Place,Huntington,WV,25705,1-(304)834-5486,1145
+1644,Matthew Rogers,843 Texas Trail,Washington,DC,20215,1-(202)990-1951,5211
+1645,Jeffrey Gomez,1 Judy Alley,Washington,DC,20062,1-(202)110-6324,9989
+1646,Arthur Willis,578 Amoth Point,Indianapolis,IN,46221,1-(317)381-0299,6069
+1647,Anthony Hall,46362 Shopko Avenue,Louisville,KY,40298,1-(502)782-6925,1979
+1648,Doris Hayes,86 Russell Court,Amarillo,TX,79118,1-(806)492-8258,4534
+1649,Cheryl Perry,516 Memorial Street,Albany,NY,12242,1-(518)824-5901,2176
+1650,Ronald Daniels,85296 Morrow Hill,Milwaukee,WI,53215,1-(414)406-8232,2739
+1651,Justin Ward,840 Waxwing Street,Springfield,IL,62705,1-(217)264-0948,524
+1652,Shirley Snyder,1 Loomis Hill,Apache Junction,AZ,85219,1-(480)130-8630,6640
+1653,Frances Cox,84286 Sutteridge Park,Philadelphia,PA,19191,1-(215)462-7558,8315
+1654,Victor Garcia,028 New Castle Plaza,New York City,NY,10029,1-(212)115-7527,7729
+1655,Charles Day,4 Little Fleur Crossing,Orlando,FL,32825,1-(321)695-1578,4707
+1656,Stephen Hill,3 Ludington Trail,San Antonio,TX,78245,1-(830)207-3455,515
+1657,Carl Morales,41078 Heffernan Trail,Salt Lake City,UT,84140,1-(801)288-8163,3250
+1658,Christine Richards,14380 Loomis Alley,Peoria,IL,61605,1-(309)103-5246,3476
+1659,Patrick Gonzalez,71979 Annamark Alley,Bozeman,MT,59771,1-(406)934-1458,5995
+1660,Jennifer Sims,5464 Rutledge Lane,Waco,TX,76796,1-(254)618-1691,5652
+1661,Louis Warren,237 Lawn Point,Jacksonville,FL,32255,1-(904)544-4444,5839
+1662,Beverly Alexander,68 Jana Drive,Dallas,TX,75392,1-(214)228-8402,2534
+1663,Nicholas Duncan,6143 Maryland Alley,Sacramento,CA,94273,1-(916)866-6038,9124
+1664,Billy Lopez,2 Sheridan Trail,Peoria,IL,61656,1-(309)803-1767,8229
+1665,Amanda Lopez,27 Dwight Crossing,Apache Junction,AZ,85219,1-(480)710-4147,9123
+1666,Raymond Hanson,2 Burrows Crossing,Albany,NY,12242,1-(518)282-6875,4500
+1667,Gerald Romero,15 Canary Lane,Wichita,KS,67210,1-(316)197-3163,9548
+1668,Amy Smith,5582 Elmside Park,Newark,DE,19725,1-(302)530-1185,2734
+1669,Jose Lewis,041 Hoard Crossing,Fort Worth,TX,76121,1-(817)260-5178,8297
+1670,Fred Russell,071 Birchwood Road,San Antonio,TX,78240,1-(210)760-2908,9315
+1671,Rachel Armstrong,0 Warner Alley,Jacksonville,FL,32209,1-(904)638-9009,9028
+1672,Johnny Alvarez,561 Red Cloud Alley,Cincinnati,OH,45264,1-(513)560-8584,8258
+1673,Kathryn Stephens,3601 Green Ridge Junction,Portsmouth,NH,00214,1-(603)582-6663,9433
+1674,Linda Ellis,8456 Fallview Parkway,Fresno,CA,93704,1-(209)507-1032,4131
+1675,Louis Wood,76994 Hudson Drive,Norman,OK,73071,1-(405)437-1056,536
+1676,Brenda Burns,022 Fair Oaks Avenue,Lees Summit,MO,64082,1-(816)603-5094,9015
+1677,Larry Cox,647 Thompson Circle,Waterbury,CT,06705,1-(203)644-8902,2673
+1678,Helen Cruz,46 Briar Crest Parkway,Washington,DC,20337,1-(202)421-4211,3886
+1679,Steve Perkins,9 Swallow Plaza,Tacoma,WA,98424,1-(253)268-7618,7290
+1680,Phyllis Reid,2 Transport Parkway,El Paso,TX,79916,1-(915)973-1633,1901
+1681,Michelle Holmes,56534 Fremont Road,Huntsville,AL,35815,1-(256)500-0828,6543
+1682,Daniel Carter,34 Bay Hill,Saint Cloud,MN,56372,1-(320)878-5577,6511
+1683,Gloria Hart,139 Eastwood Place,Austin,TX,78789,1-(512)805-5467,680
+1684,Wanda Garza,128 Buhler Place,Beaumont,TX,77713,1-(936)888-7165,7843
+1685,Eugene Moreno,1 Fisk Circle,Atlanta,GA,30356,1-(404)334-5858,2550
+1686,Kathleen Jacobs,98 Cambridge Terrace,Washington,DC,20404,1-(202)810-5009,9208
+1687,Mildred Kennedy,246 Grasskamp Drive,Chandler,AZ,85246,1-(602)769-2248,5288
+1688,Joshua Jackson,64 Boyd Trail,Shreveport,LA,71105,1-(318)996-2975,6892
+1689,Janet Palmer,7 American Road,Louisville,KY,40266,1-(502)273-1169,1774
+1690,Joshua Clark,9524 Troy Court,Lafayette,LA,70593,1-(337)849-8666,3839
+1691,Jennifer Day,29809 Thompson Court,Rockford,IL,61110,1-(815)569-5815,8309
+1692,Judith Bennett,612 Gerald Place,San Jose,CA,95113,1-(408)584-6484,3192
+1693,Arthur Willis,240 Russell Alley,San Antonio,TX,78210,1-(210)846-0965,6637
+1694,Shawn Hayes,7 Delaware Pass,Oakland,CA,94622,1-(510)778-3791,2377
+1695,Evelyn Ortiz,7558 Shelley Place,Anderson,IN,46015,1-(765)369-8510,7408
+1696,Irene Chapman,0031 Mendota Junction,Midland,TX,79710,1-(432)345-0614,5629
+1697,Gregory Montgomery,99832 Fulton Hill,Anchorage,AK,99517,1-(907)816-8556,9678
+1698,Helen Baker,561 Manufacturers Pass,Pompano Beach,FL,33069,1-(954)888-9630,3516
+1699,Carolyn Reid,8048 Hovde Circle,Huntington,WV,25726,1-(304)528-7102,3606
+1700,Gary Jenkins,8 Sutherland Plaza,Wichita,KS,67230,1-(316)730-9205,5678
+1701,Alan Fowler,43 Twin Pines Avenue,Wichita,KS,67230,1-(316)463-5234,1895
+1702,Kathleen Clark,39045 Thackeray Road,Saint Petersburg,FL,33710,1-(727)622-6401,9813
+1703,Sarah Johnson,4498 Di Loreto Court,Erie,PA,16565,1-(814)358-2836,1134
+1704,Angela Bailey,73087 Karstens Circle,Topeka,KS,66617,1-(785)962-6621,5212
+1705,Benjamin Johnston,6 Bay Road,Pueblo,CO,81005,1-(719)523-8792,1918
+1706,Eric Harper,18873 American Terrace,Berkeley,CA,94712,1-(510)426-6585,8310
+1707,Gerald Wallace,8436 Dunning Trail,Chicago,IL,60630,1-(312)718-1840,6071
+1708,Brenda Rodriguez,984 Havey Circle,Charlotte,NC,28284,1-(704)878-4041,1994
+1709,Paul Harris,881 Golf Course Avenue,Lees Summit,MO,64082,1-(816)187-4519,2942
+1710,Kevin Robinson,74464 Lakewood Center,Amarillo,TX,79188,1-(806)881-6440,4797
+1711,David Larson,09 Melvin Avenue,Washington,DC,20062,1-(202)257-4517,6921
+1712,David Mason,77 Randy Way,Colorado Springs,CO,80935,1-(719)286-9931,3404
+1713,Samuel Grant,83351 Rieder Park,Chicago,IL,60669,1-(312)759-9014,5784
+1714,Carolyn Fowler,5257 Schlimgen Hill,Montgomery,AL,36177,1-(334)409-2299,7623
+1715,Eugene Rivera,83804 Hanover Place,Portland,OR,97255,1-(971)657-7819,8416
+1716,Emily Tucker,93 Northwestern Point,Tampa,FL,33647,1-(813)228-1410,1944
+1717,Ronald Crawford,9281 Laurel Park,Panama City,FL,32405,1-(850)948-5398,1114
+1718,Gary Wright,9 Burrows Crossing,Denver,CO,80299,1-(720)121-9488,5117
+1719,Norma Clark,21 Clyde Gallagher Terrace,Los Angeles,CA,90025,1-(818)124-0859,8798
+1720,Paul Bennett,3 Red Cloud Pass,Fort Lauderdale,FL,33336,1-(754)589-2824,5964
+1721,Richard Cooper,64134 Maple Plaza,Aurora,CO,80044,1-(303)635-1508,9760
+1722,Joan Hayes,50 Clemons Circle,Erie,PA,16550,1-(814)558-1121,1890
+1723,Elizabeth Graham,9428 Northport Way,Phoenix,AZ,85035,1-(602)250-3222,2965
+1724,Joe Marshall,8484 Center Road,Memphis,TN,38143,1-(901)763-2823,6050
+1725,Norma Edwards,3861 Barby Trail,Scottsdale,AZ,85271,1-(480)745-6175,2590
+1726,Howard Jackson,1184 Ilene Way,El Paso,TX,79989,1-(915)318-5698,6331
+1727,Daniel Rivera,95528 Ilene Drive,Saint Petersburg,FL,33731,1-(727)151-7134,4410
+1728,Diane Howard,8182 New Castle Parkway,Charleston,SC,29416,1-(843)401-6987,1607
+1729,Jerry Griffin,20004 Hazelcrest Lane,Houston,TX,77035,1-(281)197-6822,4179
+1730,Diane Hart,0 American Ash Place,Austin,TX,78759,1-(512)722-3653,3937
+1731,Lori Coleman,45201 Comanche Trail,San Francisco,CA,94147,1-(415)230-2296,7558
+1732,Ryan Henderson,59965 Linden Circle,Austin,TX,78721,1-(512)584-3688,9263
+1733,Eric Tucker,1074 Northland Circle,Dallas,TX,75210,1-(214)374-4576,2540
+1734,Jeffrey Stanley,583 Barby Plaza,Alhambra,CA,91841,1-(626)105-8613,9310
+1735,Doris Nelson,10481 Eliot Lane,Oklahoma City,OK,73173,1-(405)127-4920,9615
+1736,Patrick Russell,609 Esch Point,Los Angeles,CA,90025,1-(213)358-7973,507
+1737,Victor Jenkins,62 Jackson Hill,Anderson,IN,46015,1-(765)368-9676,1410
+1738,Shirley Sanchez,8006 Elgar Drive,Moreno Valley,CA,92555,1-(951)872-0093,3103
+1739,Ralph Burton,53282 Michigan Junction,Norwalk,CT,06859,1-(203)391-2249,2431
+1740,Charles Diaz,44 Elmside Plaza,Raleigh,NC,27690,1-(919)147-1269,8594
+1741,Theresa Garcia,09987 Judy Parkway,Raleigh,NC,27635,1-(919)802-5929,1425
+1742,Susan Burton,67503 Laurel Hill,Lake Charles,LA,70607,1-(337)458-2126,754
+1743,Jacqueline King,133 Arrowood Lane,Montgomery,AL,36177,1-(334)899-3091,3792
+1744,Jonathan Romero,50 Golden Leaf Way,Tacoma,WA,98481,1-(253)119-3997,6457
+1745,Jose Spencer,7 Nelson Point,Peoria,IL,61640,1-(309)293-7020,1238
+1746,Janice Gomez,214 Steensland Plaza,Baltimore,MD,21229,1-(443)822-8349,1355
+1747,Diana Patterson,39964 Stone Corner Road,North Las Vegas,NV,89036,1-(702)802-6384,9365
+1748,Steve Olson,7247 Weeping Birch Center,Dayton,OH,45490,1-(937)494-0245,5928
+1749,Cheryl Barnes,6783 Ryan Plaza,Largo,FL,34643,1-(727)331-4951,1277
+1750,Sharon Johnston,8 Westerfield Parkway,Huntsville,TX,77343,1-(936)975-3608,9358
+1751,Kathleen Wallace,2 Larry Plaza,Chico,CA,95973,1-(530)836-1591,5192
+1752,Harold Lawrence,0 Forest Dale Trail,Jackson,MS,39296,1-(601)288-5146,4440
+1753,Lillian Bennett,47 Monterey Avenue,Newport Beach,CA,92662,1-(714)252-2352,3541
+1754,Nicole Jacobs,043 Amoth Lane,Fort Wayne,IN,46857,1-(260)568-5440,3329
+1755,Samuel Phillips,0 Kipling Terrace,San Diego,CA,92153,1-(619)504-1764,6153
+1756,Roger Richardson,43841 Burning Wood Road,South Bend,IN,46699,1-(574)597-8127,2631
+1757,Donna Foster,91 Badeau Street,Evansville,IN,47705,1-(812)512-1358,6517
+1758,Ryan Sanchez,2 Moland Center,Prescott,AZ,86305,1-(520)533-0583,4012
+1759,Paula Price,35861 Summer Ridge Trail,Portland,ME,04109,1-(207)144-8566,1147
+1760,Christopher Ellis,1382 Oriole Alley,Schenectady,NY,12305,1-(518)209-6973,2477
+1761,Jack Burton,6 Parkside Point,Daytona Beach,FL,32123,1-(386)469-9314,9829
+1762,Kevin Wood,9849 Riverside Hill,Naples,FL,33963,1-(239)245-6983,3571
+1763,James Greene,88 Melvin Circle,Charleston,WV,25326,1-(304)357-4891,6658
+1764,Phyllis Cunningham,31944 Hermina Center,Spokane,WA,99252,1-(509)854-3173,765
+1765,Ruby Simmons,87 Oak Valley Avenue,Minneapolis,MN,55402,1-(763)852-4166,1793
+1766,Jesse Martin,5 Florence Park,Norfolk,VA,23514,1-(757)132-8309,6295
+1767,Amanda Porter,7 Amoth Avenue,Birmingham,AL,35254,1-(205)300-0688,7243
+1768,Keith Wilson,3 Carberry Point,El Paso,TX,88525,1-(915)529-6397,4713
+1769,Cheryl Weaver,94 Trailsway Junction,Stamford,CT,06905,1-(203)310-9389,510
+1770,Philip Burns,87673 Division Lane,Boca Raton,FL,33499,1-(561)303-0323,1087
+1771,Philip Jordan,4 Farragut Way,Dallas,TX,75310,1-(214)402-9150,1536
+1772,Stephanie Griffin,57100 Browning Terrace,Las Vegas,NV,89120,1-(702)822-3024,8399
+1773,Shirley Fuller,16 Bluejay Lane,Long Beach,CA,90831,1-(562)914-5697,2141
+1774,Henry Ward,7243 Melvin Street,Sacramento,CA,94263,1-(916)723-6594,5259
+1775,Sharon Wagner,34140 Waubesa Plaza,Los Angeles,CA,90087,1-(213)622-0456,2018
+1776,Joe Jordan,67343 Lillian Trail,Sacramento,CA,94297,1-(916)563-4453,8934
+1777,Rose Hicks,18 Arkansas Alley,Boise,ID,83732,1-(208)503-1122,5730
+1778,Lawrence James,8 Hovde Avenue,Charleston,WV,25356,1-(304)198-9998,2056
+1779,Alan Thompson,21 David Junction,Washington,DC,20046,1-(202)277-3725,9629
+1780,Aaron Ramirez,06755 Dawn Crossing,Battle Creek,MI,49018,1-(269)897-2110,3584
+1781,Deborah Wood,09 Claremont Way,Philadelphia,PA,19141,1-(215)359-8789,7389
+1782,Deborah Jordan,63633 Tomscot Road,Houston,TX,77015,1-(281)210-5277,2615
+1783,Maria Williams,290 Claremont Alley,Knoxville,TN,37939,1-(865)745-9584,3700
+1784,Jack West,50824 Maple Trail,Albuquerque,NM,87121,1-(505)392-6670,5272
+1785,William Griffin,589 Bayside Trail,Oklahoma City,OK,73152,1-(405)762-4170,1690
+1786,Kimberly Elliott,14 Ruskin Junction,Pasadena,CA,91109,1-(818)822-8535,7840
+1787,Jean Jacobs,21653 Ronald Regan Hill,Houston,TX,77260,1-(713)118-0069,7781
+1788,Teresa Collins,408 Messerschmidt Park,Bakersfield,CA,93305,1-(661)392-5535,654
+1789,Russell Jacobs,79262 Jackson Center,Chicago,IL,60681,1-(312)691-1484,5329
+1790,Christina Reynolds,7955 Dryden Park,Tallahassee,FL,32309,1-(850)365-4137,5377
+1791,Nancy Foster,6024 Carioca Way,Young America,MN,55564,1-(952)188-5891,9687
+1792,Paula Robertson,64 Arizona Alley,Naples,FL,34114,1-(239)362-8278,2629
+1793,Patricia Pierce,24693 Chinook Road,Dallas,TX,75236,1-(214)580-0724,7230
+1794,Roy Martinez,90 Village Green Terrace,Spokane,WA,99260,1-(509)854-9924,3244
+1795,Albert Taylor,5 Linden Alley,Anderson,SC,29625,1-(864)418-2258,2491
+1796,Christine Fowler,959 Schlimgen Center,Stockton,CA,95205,1-(209)171-1935,6739
+1797,Lois Walker,8590 Londonderry Point,El Paso,TX,88579,1-(915)813-7259,4809
+1798,Anne Garza,73830 Scoville Plaza,Virginia Beach,VA,23454,1-(757)531-3638,1819
+1799,Donna Rogers,8 Oneill Parkway,Salt Lake City,UT,84145,1-(801)346-7429,892
+1800,Julia Chavez,36 Harper Place,Atlanta,GA,30351,1-(404)747-4210,1232
+1801,Michelle Boyd,269 Shelley Pass,Lubbock,TX,79410,1-(806)461-2103,8925
+1802,Jane Ford,8 Elgar Crossing,Miami,FL,33180,1-(954)893-6766,6813
+1803,Kathy Duncan,51282 Mayfield Point,Albuquerque,NM,87140,1-(505)585-4363,7730
+1804,Jerry Wheeler,867 Sunfield Circle,San Jose,CA,95138,1-(408)400-4156,5674
+1805,Chris Larson,96 Rigney Parkway,Washington,DC,20580,1-(202)638-7640,5453
+1806,Carlos Ryan,2 Michigan Court,Texarkana,TX,75507,1-(903)334-9635,7686
+1807,Lisa Bowman,94646 Russell Alley,Trenton,NJ,08603,1-(609)279-2486,6255
+1808,Beverly Grant,514 Victoria Point,Jeffersonville,IN,47134,1-(812)811-5594,7750
+1809,Ruby Williams,5 Lunder Court,Naples,FL,34102,1-(941)893-8127,6156
+1810,Ann Cox,87 Arizona Center,Miami,FL,33180,1-(954)764-2726,9531
+1811,Aaron Diaz,1907 Hintze Plaza,Houston,TX,77015,1-(281)774-0911,1013
+1812,Jennifer Garza,05131 1st Point,Chicago,IL,60636,1-(312)679-6007,5450
+1813,Louise Andrews,0314 Pearson Point,Pensacola,FL,32595,1-(850)666-7974,9296
+1814,Martha Marshall,104 Clove Road,Atlanta,GA,30323,1-(770)842-0560,5693
+1815,Benjamin Bishop,0891 School Center,Albuquerque,NM,87140,1-(505)418-2433,7272
+1816,Michelle Sanders,4 Northridge Center,Cincinnati,OH,45203,1-(513)226-5032,595
+1817,Donna Porter,75 Gulseth Trail,San Diego,CA,92132,1-(619)613-0684,2242
+1818,Jeffrey Sanchez,81848 Brown Avenue,Amarillo,TX,79188,1-(806)375-3822,2725
+1819,Lisa Howell,704 Fieldstone Pass,Richmond,VA,23203,1-(804)781-5391,9131
+1820,Jesse Hart,149 Pierstorff Center,Pittsburgh,PA,15274,1-(412)147-5917,1990
+1821,Andrea Marshall,6 Park Meadow Center,El Paso,TX,79934,1-(915)915-6636,7554
+1822,Rose Schmidt,551 Jenna Court,Oakland,CA,94627,1-(510)974-2583,7377
+1823,Virginia Carter,08733 Myrtle Park,Memphis,TN,38104,1-(901)722-1547,3706
+1824,Lisa Simmons,568 Chive Circle,Chicago,IL,60686,1-(312)562-9007,3727
+1825,Mary Berry,0258 Pond Pass,Brooklyn,NY,11220,1-(718)194-7455,9990
+1826,Shirley Bowman,933 1st Court,Minneapolis,MN,55470,1-(612)389-6417,7522
+1827,Ryan Henderson,691 Shasta Park,Charleston,WV,25356,1-(304)785-4302,2397
+1828,Earl Kim,834 Thierer Place,Phoenix,AZ,85040,1-(602)959-9457,825
+1829,Joyce Reynolds,5119 Delladonna Avenue,Wilmington,NC,28410,1-(910)718-6280,6543
+1830,Tina Stanley,708 Debs Hill,Scranton,PA,18505,1-(570)749-5062,5794
+1831,Carl Montgomery,98 Ridge Oak Hill,Petaluma,CA,94975,1-(707)946-7357,1539
+1832,Cheryl Hunter,7764 Summit Alley,Wichita,KS,67205,1-(316)768-2972,9191
+1833,Walter Fisher,0 Morningstar Court,Anchorage,AK,99517,1-(907)779-7510,6395
+1834,Raymond Weaver,287 Utah Circle,Shawnee Mission,KS,66220,1-(913)405-9504,9844
+1835,Louis Castillo,42684 5th Hill,Decatur,GA,30089,1-(678)152-8198,5817
+1836,Amy Perez,45713 Merrick Court,Montgomery,AL,36134,1-(334)534-6898,8340
+1837,Mildred Edwards,1308 Cherokee Hill,Fort Worth,TX,76162,1-(682)541-0517,6865
+1838,Katherine Wright,60 4th Terrace,Vero Beach,FL,32964,1-(772)833-5757,6817
+1839,Randy Marshall,0034 Banding Crossing,Houston,TX,77288,1-(713)324-4085,6269
+1840,Albert Hill,54 6th Circle,Denton,TX,76205,1-(817)454-1518,2077
+1841,Bobby Willis,225 Sunbrook Pass,Wilmington,DE,19886,1-(302)273-5592,7726
+1842,Linda Mills,36 Carberry Pass,Atlanta,GA,30356,1-(404)653-7549,5928
+1843,Juan Gomez,2277 Lighthouse Bay Hill,Austin,TX,78737,1-(512)151-5977,735
+1844,Judith Frazier,33 Larry Avenue,Atlanta,GA,30392,1-(404)445-5743,2409
+1845,Howard Sims,5341 Mcguire Junction,Tyler,TX,75710,1-(903)208-5420,7743
+1846,Laura Bishop,755 Golf View Parkway,Seattle,WA,98115,1-(206)101-7074,1117
+1847,Catherine Murphy,6221 Melody Way,Columbia,SC,29225,1-(803)796-5315,2122
+1848,Eric Sims,13261 Truax Point,Dallas,TX,75372,1-(214)148-7382,7233
+1849,Betty Simmons,0721 Thierer Drive,New York City,NY,10029,1-(646)336-5828,5396
+1850,Adam Baker,9288 Ramsey Pass,Toledo,OH,43610,1-(419)653-2285,8652
+1851,Tammy Gonzalez,67 Northport Terrace,Naples,FL,33961,1-(305)577-2155,8586
+1852,Charles Reed,4226 Roth Junction,Dallas,TX,75265,1-(214)666-7545,5305
+1853,Tina Long,6821 Larry Plaza,Columbus,OH,43268,1-(614)481-5327,9392
+1854,Robert Stewart,96 Merchant Street,Saint Paul,MN,55127,1-(651)551-5628,2620
+1855,Christopher Lane,6422 Kenwood Crossing,Arvada,CO,80005,1-(303)352-4396,7361
+1856,Howard Gutierrez,3 Eastlawn Alley,Huntsville,AL,35815,1-(256)780-0598,5142
+1857,Paula Lynch,829 La Follette Center,Naples,FL,34114,1-(239)913-5669,7676
+1858,Rachel Young,347 Dakota Trail,El Paso,TX,88569,1-(915)511-3488,6375
+1859,Amanda Andrews,71 Fremont Point,Flint,MI,48555,1-(810)359-7686,7779
+1860,Nicole Boyd,6 4th Way,Sioux Falls,SD,57198,1-(605)933-9484,2505
+1861,Jean Warren,30 School Way,Portland,OR,97211,1-(208)332-4902,9634
+1862,Kelly Fuller,6 Transport Alley,Newark,NJ,07112,1-(201)962-3878,1625
+1863,Stephen Mccoy,68 Elka Hill,Honolulu,HI,96840,1-(808)273-4632,1332
+1864,Richard Dean,563 1st Plaza,Hialeah,FL,33013,1-(786)493-3274,1027
+1865,Douglas Allen,142 Prairie Rose Court,New York City,NY,10079,1-(212)446-9454,563
+1866,Rose Johnson,632 1st Circle,Inglewood,CA,90398,1-(310)232-3422,8030
+1867,Ernest Sanders,24856 Graedel Center,Las Vegas,NV,89178,1-(702)554-0328,8858
+1868,Benjamin Hawkins,88084 Pleasure Drive,Young America,MN,55551,1-(952)256-3424,915
+1869,Rose Hayes,69 Hanson Court,Indianapolis,IN,46207,1-(317)865-6181,6792
+1870,Wayne Young,845 Arapahoe Court,Atlanta,GA,31136,1-(404)887-3104,8413
+1871,Mary Gonzalez,0 Dexter Street,Los Angeles,CA,90025,1-(424)215-1853,9329
+1872,Lillian Foster,38080 Pankratz Avenue,New York City,NY,10175,1-(646)441-2136,6344
+1873,Martha Welch,0556 Delaware Place,Knoxville,TN,37995,1-(865)524-2852,1293
+1874,Lori Burton,8 Hansons Plaza,Denton,TX,76210,1-(972)394-2053,1356
+1875,Kenneth Porter,5 Donald Trail,Kalamazoo,MI,49048,1-(517)364-4940,2554
+1876,Betty Carpenter,147 Haas Crossing,Los Angeles,CA,90060,1-(323)524-4631,3104
+1877,Tina Carr,6379 Pepper Wood Plaza,Miami,FL,33245,1-(786)536-7424,2533
+1878,Rachel Watson,25 Clemons Center,Miami,FL,33147,1-(305)227-2797,863
+1879,Sandra Morgan,9386 Sommers Parkway,Denver,CO,80204,1-(720)995-7912,4054
+1880,Kathleen Stone,1 Vera Avenue,Saint Joseph,MO,64504,1-(816)374-7585,4179
+1881,Earl Tucker,5551 Cardinal Way,Morgantown,WV,26505,1-(304)748-5971,8719
+1882,Tammy Chavez,871 Cottonwood Junction,South Bend,IN,46699,1-(574)286-4819,5601
+1883,Louise Miller,15 Acker Junction,Huntsville,TX,77343,1-(936)540-8278,5324
+1884,Sandra Jacobs,45 Ridge Oak Avenue,Denver,CO,80255,1-(303)167-2353,4401
+1885,Steven Martin,1624 Cambridge Drive,Huntington,WV,25770,1-(304)873-0941,9815
+1886,Brandon Lawrence,3 Duke Terrace,Oakland,CA,94611,1-(510)246-3817,4515
+1887,Roy Dixon,649 Golf Street,Charlotte,NC,28242,1-(704)828-4817,1779
+1888,Bonnie Reynolds,246 Sauthoff Alley,New Bedford,MA,02745,1-(508)602-1609,4665
+1889,Rebecca Hernandez,15768 Pleasure Avenue,Pittsburgh,PA,15266,1-()885-7578,9889
+1890,Paul Mcdonald,81 Oakridge Lane,Boise,ID,83711,1-(208)284-6201,3595
+1891,Laura Rogers,3830 Mccormick Lane,Akron,OH,44393,1-(234)354-5135,1806
+1892,Jacqueline Chavez,53992 Montana Parkway,Los Angeles,CA,90101,1-(213)470-3447,7102
+1893,Samuel Alvarez,92 Lien Terrace,Columbia,SC,29203,1-(803)990-6239,2437
+1894,Cynthia Harper,6966 Old Shore Court,Peoria,IL,61614,1-(309)236-7717,4558
+1895,Linda Kelly,53 Johnson Way,Berkeley,CA,94712,1-(510)529-7920,1378
+1896,Ralph White,90099 Amoth Alley,Akron,OH,44315,1-(330)427-2722,8221
+1897,Samuel Harrison,3003 Moland Lane,Colorado Springs,CO,80915,1-(719)332-8834,795
+1898,Mildred Richardson,8211 Buell Hill,Chicago,IL,60604,1-(224)788-4233,1114
+1899,Annie Mitchell,20 Bellgrove Road,Fort Smith,AR,72916,1-(479)797-5606,9090
+1900,Bonnie Stephens,3990 Center Avenue,Saint Louis,MO,63104,1-(314)504-6877,2086
+1901,Robert Henderson,2 Fairfield Center,San Luis Obispo,CA,93407,1-(805)613-2580,2733
+1902,Alice Peters,69291 Reindahl Trail,Macon,GA,31210,1-(478)513-3481,5848
+1903,Brenda Cooper,558 Drewry Hill,Orlando,FL,32854,1-(407)184-6762,2128
+1904,Jason King,691 Pearson Way,Jacksonville,FL,32225,1-(904)825-6220,3291
+1905,Billy Ellis,59 Goodland Plaza,Mountain View,CA,94042,1-(650)985-1654,2587
+1906,Carl Wheeler,98677 Mccormick Alley,Battle Creek,MI,49018,1-(269)205-0278,3051
+1907,Kathleen Chavez,613 Anthes Court,Rockville,MD,20851,1-(301)275-7270,7222
+1908,Sara Mendoza,3 Meadow Valley Way,Sarasota,FL,34233,1-(941)294-8878,3584
+1909,David Dunn,013 Tony Crossing,Chicago,IL,60691,1-(312)524-7147,1183
+1910,Dorothy Mitchell,106 Sundown Road,College Station,TX,77844,1-(979)985-4249,7526
+1911,Timothy Chavez,7 Lighthouse Bay Park,West Palm Beach,FL,33405,1-(561)530-4178,8663
+1912,Sara Hudson,4 American Ash Road,Fort Worth,TX,76162,1-(682)607-0402,8991
+1913,Michael Tucker,38 Burning Wood Point,Omaha,NE,68105,1-(402)710-5733,5552
+1914,Edward Bell,87261 Ramsey Lane,Grand Forks,ND,58207,1-(701)508-2031,1332
+1915,Martin Thompson,015 Columbus Point,Sacramento,CA,94237,1-(916)741-9100,6009
+1916,Louis Morris,796 Dorton Crossing,New Orleans,LA,70160,1-(504)229-8845,4496
+1917,Jacqueline Kennedy,222 Bluestem Junction,San Luis Obispo,CA,93407,1-(805)120-7003,4344
+1918,Deborah Banks,8 Waywood Court,Santa Fe,NM,87505,1-(505)638-4140,1161
+1919,Bruce Carpenter,906 East Trail,Littleton,CO,80127,1-(303)369-3791,5950
+1920,Donna Morrison,6 Tomscot Point,Toledo,OH,43605,1-(419)366-9067,9984
+1921,Cynthia Flores,18 Cordelia Hill,Schaumburg,IL,60193,1-(630)248-6237,9457
+1922,Earl Gibson,2 Schurz Drive,Inglewood,CA,90305,1-(323)577-3384,2674
+1923,Ruth Alexander,810 Garrison Hill,Detroit,MI,48224,1-(313)747-9458,2579
+1924,Dennis Barnes,92337 Melrose Point,Lubbock,TX,79491,1-(806)431-4104,5158
+1925,Lisa Hunt,5 Lindbergh Hill,Atlanta,GA,30386,1-(404)301-9505,9413
+1926,Edward Gardner,8 Pawling Avenue,Spartanburg,SC,29319,1-(864)101-9657,2795
+1927,Tammy Ortiz,5244 Blackbird Street,Memphis,TN,38126,1-(901)451-5199,8134
+1928,Patricia Perkins,11784 Pond Park,Grand Rapids,MI,49544,1-(616)544-4471,9195
+1929,Kimberly Phillips,2 Pond Drive,Lexington,KY,40515,1-(859)381-0699,7564
+1930,Jessica Hunter,2 Doe Crossing Parkway,Cleveland,OH,44185,1-(216)568-2566,8341
+1931,Anthony Banks,4229 Carey Place,New Orleans,LA,70124,1-(985)478-5858,1976
+1932,Irene James,6 Comanche Street,Austin,TX,78721,1-(512)929-0003,9152
+1933,Paula Bowman,459 Stuart Plaza,Las Vegas,NV,89155,1-(702)338-2575,7946
+1934,Todd Mccoy,8837 Loomis Place,Dayton,OH,45408,1-(937)283-2565,1239
+1935,Gregory Jones,5 Bashford Alley,Chicago,IL,60657,1-(312)490-8542,3444
+1936,David Diaz,08404 Comanche Place,Glendale,AZ,85305,1-(623)896-6433,7084
+1937,Anne Diaz,82 Crescent Oaks Plaza,Dallas,TX,75397,1-(214)926-4636,8849
+1938,Jessica Thomas,81 Talmadge Avenue,Durham,NC,27710,1-(919)587-7755,9401
+1939,Peter Boyd,164 Toban Hill,Charlotte,NC,28242,1-(704)185-9321,9661
+1940,Todd Butler,9823 Russell Junction,Delray Beach,FL,33448,1-(561)434-4691,2784
+1941,Heather Palmer,2830 Dwight Park,Raleigh,NC,27635,1-(919)356-3846,3161
+1942,Fred Elliott,5 Maple Wood Place,Washington,DC,20319,1-(202)606-5468,6442
+1943,Ryan Kelly,0 Scofield Street,Washington,DC,20530,1-(202)577-6424,1958
+1944,Scott Burns,26048 Sherman Pass,Sterling,VA,20167,1-(571)664-1736,9786
+1945,Andrea Long,3 Emmet Court,Muskegon,MI,49444,1-(231)355-3003,6845
+1946,Annie Franklin,674 Kim Parkway,Asheville,NC,28805,1-(828)166-8206,4419
+1947,Christine Foster,316 Evergreen Place,San Antonio,TX,78255,1-(830)230-2899,5681
+1948,Phillip Ramos,7 Sunbrook Avenue,Springfield,OH,45505,1-(937)904-7810,2636
+1949,Alice Elliott,53 Harbort Park,Philadelphia,PA,19172,1-(215)303-4244,1655
+1950,Donald Reynolds,385 Pine View Pass,Dallas,TX,75379,1-(214)600-6449,951
+1951,Norma Franklin,0 Shasta Terrace,Seattle,WA,98127,1-(206)318-0717,4172
+1952,Evelyn Butler,2106 Hoepker Road,Boston,MA,02203,1-(617)485-4087,3504
+1953,Janet Kelly,16577 Green Point,Waltham,MA,02453,1-(781)752-1749,3140
+1954,Barbara Fuller,801 Del Sol Park,Gainesville,GA,30506,1-(404)977-1454,7422
+1955,Christine Martin,2463 Gale Drive,Topeka,KS,66629,1-(785)102-0086,1316
+1956,Jennifer Harris,8873 Algoma Pass,Boise,ID,83732,1-(208)759-1296,1447
+1957,Timothy Black,356 Mcbride Court,Waco,TX,76711,1-(254)468-3582,3015
+1958,Bonnie Medina,9 Lien Street,Houston,TX,77035,1-(281)679-7615,9944
+1959,Gregory Kelley,75175 Bartelt Junction,Milwaukee,WI,53215,1-(414)754-0107,2327
+1960,Betty Gilbert,59 Hagan Circle,Washington,DC,20029,1-(202)282-9887,3080
+1961,Julie Wood,653 Vernon Alley,Escondido,CA,92030,1-(760)220-0991,2315
+1962,Betty Ramirez,4 Farwell Way,Saint Louis,MO,63131,1-(314)309-6646,4597
+1963,Gloria Peterson,280 Hoard Pass,Houston,TX,77080,1-(832)414-3627,6202
+1964,Ernest Bryant,8402 Hintze Trail,El Paso,TX,79984,1-(915)295-0051,7812
+1965,Cynthia Mendoza,1 Banding Court,Dayton,OH,45419,1-(937)138-5384,9495
+1966,Irene Henderson,775 Clove Lane,Miami,FL,33134,1-(786)786-4120,8788
+1967,Brandon Allen,50 Garrison Hill,Washington,DC,20016,1-(703)406-2771,7503
+1968,Jessica Flores,53 Roth Court,Detroit,MI,48206,1-(810)702-5730,2193
+1969,Jerry Hamilton,7 Towne Crossing,Charlotte,NC,28278,1-(704)702-2359,6983
+1970,Jessica Cox,9524 Armistice Road,Stamford,CT,06922,1-(203)650-3724,7656
+1971,Carl Ferguson,93 Maple Wood Crossing,Gulfport,MS,39505,1-(228)634-5105,6079
+1972,Craig Kim,788 Fremont Circle,Gilbert,AZ,85297,1-(480)517-0180,7032
+1973,Dennis Taylor,781 Garrison Parkway,Littleton,CO,80127,1-(303)797-0957,2509
+1974,Scott Richardson,4050 Forest Plaza,Saint Paul,MN,55172,1-(651)515-8406,1923
+1975,Katherine Berry,5 Corry Junction,Seattle,WA,98109,1-(360)272-7611,2579
+1976,Harold Reid,4285 Dexter Trail,Washington,DC,20442,1-(202)211-0684,5972
+1977,Steve Perez,3 Killdeer Street,Irvine,CA,92710,1-(714)838-3338,6560
+1978,Clarence Davis,44712 Dapin Hill,Minneapolis,MN,55470,1-(612)263-9275,8137
+1979,Evelyn Parker,9 Goodland Place,Indianapolis,IN,46221,1-(317)993-3709,7644
+1980,Marie Gutierrez,88 Eastwood Place,Lansing,MI,48930,1-(517)606-3429,3119
+1981,Craig Parker,6 Forest Run Street,Washington,DC,20041,1-(703)370-9949,2718
+1982,Debra Bradley,129 Oxford Park,Baltimore,MD,21282,1-(410)412-7397,4010
+1983,Donna Allen,67752 Oxford Road,Waltham,MA,02453,1-(774)290-8871,2875
+1984,Thomas Torres,532 Monterey Lane,Shawnee Mission,KS,66210,1-(913)290-0127,1384
+1985,Joan Bailey,5211 Stephen Road,Lancaster,PA,17605,1-(717)406-1287,7209
+1986,Brian Martin,74 Stuart Hill,Washington,DC,20525,1-(202)120-8436,2230
+1987,Brandon Montgomery,704 Wayridge Drive,Louisville,KY,40205,1-(502)401-0334,8765
+1988,Pamela Kennedy,4 Farragut Avenue,Clearwater,FL,34629,1-(727)797-6068,9697
+1989,Diana Gomez,8936 Nova Court,San Bernardino,CA,92410,1-(909)650-5699,4885
+1990,Walter Jackson,85 Oak Avenue,Winston Salem,NC,27105,1-(704)848-3206,5112
+1991,Janice Holmes,14548 Alpine Lane,Lynchburg,VA,24515,1-(434)965-2551,9081
+1992,Martin Wilson,15 Sunnyside Street,San Francisco,CA,94177,1-(415)835-8972,8367
+1993,Carlos Anderson,0203 Westend Point,Huntington,WV,25716,1-(304)876-8119,7360
+1994,Brenda Garrett,0 Tony Junction,Philadelphia,PA,19109,1-(267)127-7307,6356
+1995,Mary Hill,320 Graedel Parkway,Brockton,MA,02405,1-(508)842-2960,2332
+1996,Robert Palmer,2008 Bashford Lane,Fresno,CA,93773,1-(559)750-6840,2145
+1997,Christopher Matthews,07718 Veith Lane,Birmingham,AL,35210,1-(205)338-3768,4274
+1998,Carl Dunn,3628 Lawn Court,Dallas,TX,75372,1-(214)457-0616,4877
+1999,Virginia Hicks,76 4th Crossing,Oakland,CA,94616,1-(415)876-7667,7614
